@@ -1,0 +1,47 @@
+h3 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.9em;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cardSingle {
+  width: 25em;
+  margin: 1em;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  align-items: center;
+}
+
+.cardMain {
+  text-align: center;
+}
+
+.cardFooter {
+  display: flex;
+}
+
+.cardFooter div {
+  margin: 1em;
+  width: 5em;
+}
+
+li {
+  font-family: "Courier New", Courier, monospace;
+  list-style: none;
+  font-size: 0.7em;
+  text-align: center;
+}
+
+.currency li {
+  font-size: 0.7em;
+}
+
+img {
+  width: 5em;
+}
