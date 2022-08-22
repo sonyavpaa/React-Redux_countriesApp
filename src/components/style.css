@@ -3,45 +3,38 @@ h3 {
   font-size: 0.9em;
 }
 
-.list {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.cardSingle {
-  width: 25em;
-  margin: 1em;
-  border: 1px solid black;
+body div {
   display: flex;
   flex-direction: column;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   align-items: center;
 }
 
-.cardMain {
-  text-align: center;
+.searchBar {
+  margin-top: 3em;
+  padding: 0.5em;
+  border: 2px solid rgba(0, 85, 255, 0.219);
+  border-radius: 2em;
 }
 
-.cardFooter {
+.list {
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  place-content: center;
+
+  width: 100vw;
 }
 
-.cardFooter div {
-  margin: 1em;
-  width: 5em;
+.footer {
+  height: 1em;
+  display: flex;
+  flex-direction: row;
+  border: 1px solid red;
 }
 
-li {
-  font-family: "Courier New", Courier, monospace;
-  list-style: none;
-  font-size: 0.7em;
-  text-align: center;
-}
-
-.currency li {
-  font-size: 0.7em;
-}
-
-img {
-  width: 5em;
+a {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 0.9em;
+  height: 1em;
+  color: rgb(43, 150, 226);
 }

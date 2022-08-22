@@ -1,11 +1,12 @@
 import { useEffect, useState } from "react";
 import React from "react";
-import Card from "./Card";
 import axios from "axios";
 import "./style.css";
+import CardSingle from "./CardSingle";
 
-const List = (props) => {
+const List = () => {
   const [countries, setCountries] = useState([]);
+  const [singleCountry, setSingleCountry] = useState("");
   const [search, setSearch] = useState("");
   const [loading, setLoading] = useState(false);
 
@@ -40,23 +41,24 @@ const List = (props) => {
   return (
     <div>
       <input
+        className="searchBar"
         type="search"
         onChange={handleSearch}
         value={search}
-        placeholder="Search country..."
+        placeholder=" Search a country..."
       />
       <ul className="list">
         {filteredCountries().map((country) => {
           return (
-            <Card
-              key={country.name}
-              name={country.name.common}
-              desc={country.name.official}
+            <CardSingle
+              key={country.name.common}
+              nameCommon={country.name.common}
+              nameOfficial={country.name.offcial}
+              flagSvg={country.flags.svg}
               languages={country.languages}
-              currency={country.currencies}
+              currencies={country.currencies}
               population={country.population}
-              flagUrl={country.flags.svg}
-            ></Card>
+            />
           );
         })}
       </ul>

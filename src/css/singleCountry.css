@@ -1,0 +1,27 @@
+.flagSingle {
+  width: 20em;
+}
+
+.mainSingle {
+  margin-top: 1em;
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 2em;
+  grid-template-areas: "left right";
+}
+
+.left {
+  margin-left: 1em;
+  grid-area: "left";
+  width: 90%;
+  border: 1px solid blue;
+}
+
+.right {
+  grid-area: "right";
+  width: 90%;
+  border: 1px solid red;
+}

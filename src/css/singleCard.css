@@ -1,0 +1,52 @@
+.card {
+  overflow: visible;
+  padding-bottom: 1em;
+}
+
+.cardHeader {
+  text-align: center;
+}
+
+.cardFlagContainer {
+  width: 22em;
+  height: 10em;
+  margin-top: 1em;
+  object-fit: fill;
+}
+
+img {
+  width: fit-content;
+  object-fit: contain;
+  height: 10em;
+}
+
+.cardName {
+  margin: -1em;
+}
+
+.cardBody {
+  display: flex;
+}
+
+.cardBody {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin-top: -3em;
+}
+
+.infoBox {
+  height: 4em;
+}
+
+li {
+  font-family: "Courier New", Courier, monospace;
+  list-style: none;
+  font-size: 0.7em;
+  text-align: center;
+}
+
+.currency li {
+  font-size: 0.7em;
+}
