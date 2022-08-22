@@ -1,12 +1,11 @@
 import { useEffect, useState } from "react";
 import React from "react";
 import axios from "axios";
-import "./style.css";
+import "../css/style.css";
 import CardSingle from "./CardSingle";
 
 const List = () => {
   const [countries, setCountries] = useState([]);
-  const [singleCountry, setSingleCountry] = useState("");
   const [search, setSearch] = useState("");
   const [loading, setLoading] = useState(false);
 

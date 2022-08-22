@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, CardHeader, CardBody, CardFooter } from "grommet";
+import { Card, CardHeader, CardBody } from "grommet";
 import { Link } from "react-router-dom";
 import "../css/singleCard.css";
 

@@ -13,7 +13,6 @@ class CountrySingle extends Component {
     fetch(`https://restcountries.com/v3.1/name/${this.props.params.country}`)
       .then((response) => response.json())
       .then((response) => {
-        // console.log("response: ", response[0]?.capitalInfo?.latlng);
         this.setState({
           data: response,
           latlng: response[0]?.capitalInfo?.latlng,
@@ -24,16 +23,14 @@ class CountrySingle extends Component {
 
     const fetchWeather = (lat, lng) => {
       fetch(
-        `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lng}&appid=fb50cf639c1d62c4d1f519bfd8bacb5c`
+        `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lng}&appid={API KEY}`
       )
         .then((response) => response.json())
         .then((response) => {
-          //   console.log("weather today:", response?.weather[0]?.description);
           this.setState({
             weatherIcon: response?.weather[0]?.icon,
             weatherToday: response?.weather[0]?.description,
           });
-          // this.setState({ weather: response });
         });
     };
   }

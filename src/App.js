@@ -1,4 +1,3 @@
-import "./App.css";
 import { BrowserRouter, Routes, Route, useParams } from "react-router-dom";
 import List from "./components/List";
 import LayOut from "./pages/LayOut";
