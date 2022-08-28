@@ -1,13 +1,8 @@
-import { BrowserRouter, Routes, Route, useParams } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import List from "./components/List";
 import LayOut from "./pages/LayOut";
 
 import CountrySingle from "./components/CountrySingle";
-
-const RouterWrapper = (props) => {
-  const params = useParams();
-  return <CountrySingle params={params} {...props} />;
-};
 
 const App = () => {
   return (
@@ -15,7 +10,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<LayOut />}></Route>
         <Route index element={<List />} />
-        <Route path="/:country" element={<RouterWrapper />} />
+        <Route path="/:name" element={<CountrySingle />} />
       </Routes>
     </BrowserRouter>
   );

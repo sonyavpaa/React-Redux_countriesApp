@@ -23,8 +23,10 @@ const List = () => {
   };
 
   const fetchCountries = async () => {
-    const countryData = await axios.get("https://restcountries.com/v3.1/all");
-    setCountries(countryData.data);
+    axios
+      .get("https://restcountries.com/v3.1/all")
+      .catch((error) => console.log(error))
+      .then((res) => setCountries(res.data));
   };
 
   useEffect(() => {
@@ -48,17 +50,7 @@ const List = () => {
       />
       <ul className="list">
         {filteredCountries().map((country) => {
-          return (
-            <CardSingle
-              key={country.name.common}
-              nameCommon={country.name.common}
-              nameOfficial={country.name.offcial}
-              flagSvg={country.flags.svg}
-              languages={country.languages}
-              currencies={country.currencies}
-              population={country.population}
-            />
-          );
+          return <CardSingle {...country} />;
         })}
       </ul>
     </div>

@@ -3,20 +3,23 @@ import { Card, CardHeader, CardBody } from "grommet";
 import { Link } from "react-router-dom";
 import "../css/singleCard.css";
 
-const CardSingle = (props) => {
+const CardSingle = ({
+  population,
+  languages,
+  currencies,
+  name,
+  flags,
+  ccn3,
+}) => {
   return (
     <Card className="card" width="22em" margin="0.5em">
       <CardHeader direction="column" className="cardHeader">
         <div className="cardFlagContainer">
-          <img
-            className="cardFlag"
-            src={props.flagSvg}
-            alt={props.nameCommon}
-          />
+          <img className="cardFlag" src={flags?.svg} alt={name?.common} />
         </div>
         <div className="cardName">
-          <h2>{props.nameCommon}</h2>
-          <p>{props.nameOfficial}</p>
+          <h2>{name?.common}</h2>
+          <p>{name?.official}</p>
         </div>
       </CardHeader>
       <CardBody direction="row" className="cardBody">
@@ -24,17 +27,15 @@ const CardSingle = (props) => {
         <div className="language">
           <h3>Languages</h3>
           <div className="infoBox">
-            {props.languages &&
-              Object.values(props.languages).map((key) => (
-                <li key={key}>{key}</li>
-              ))}
+            {languages &&
+              Object.values(languages).map((key) => <li key={key}>{key}</li>)}
           </div>
         </div>
         <div className="currency">
           <h3>Currency</h3>
           <div className="infoBox">
-            {props.currencies &&
-              Object.values(props.currencies).map((currency, key) => (
+            {currencies &&
+              Object.values(currencies).map((currency, key) => (
                 <li key={key}>{currency.name}</li>
               ))}
           </div>
@@ -42,12 +43,12 @@ const CardSingle = (props) => {
         <div className="population">
           <h3>Population</h3>
           <div className="infoBox">
-            <li>{props.population}</li>
+            <li>{population}</li>
           </div>
         </div>
       </CardBody>
       <footer className="cardFooter">
-        <Link to={props.nameCommon}>See more!</Link>
+        <Link to={`${ccn3}`}>See more!</Link>
       </footer>
     </Card>
   );

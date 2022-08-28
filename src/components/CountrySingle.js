@@ -1,68 +1,78 @@
-import React, { Component } from "react";
+import axios from "axios";
+import React, { useEffect, useState } from "react";
+import { useParams } from "react-router-dom";
 import "../css/singleCountry.css";
 
-class CountrySingle extends Component {
-  state = {
-    data: [],
-    latlng: [],
-    isLoading: false,
-    weatherIcon: [],
-    weatherToday: "",
-  };
-  componentDidMount() {
-    fetch(`https://restcountries.com/v3.1/name/${this.props.params.country}`)
-      .then((response) => response.json())
-      .then((response) => {
-        this.setState({
-          data: response,
-          latlng: response[0]?.capitalInfo?.latlng,
-        });
-        console.log(this.state.latlng);
-        fetchWeather(this.state?.latlng[0], this.state?.latlng[1]);
-      });
+const CountrySingle = () => {
+  const { name } = useParams();
+  const [country, setCountry] = useState();
+  const [flag, setFlag] = useState();
+  const [coat, setCoat] = useState();
+  const [loading, setLoading] = useState(true);
+  const [weather, setWeather] = useState();
+  const [weatherIcon, setWeatherIcon] = useState("");
 
-    const fetchWeather = (lat, lng) => {
-      fetch(
-        `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lng}&appid={API KEY}`
-      )
-        .then((response) => response.json())
-        .then((response) => {
-          this.setState({
-            weatherIcon: response?.weather[0]?.icon,
-            weatherToday: response?.weather[0]?.description,
+  useEffect(() => {
+    axios
+      .get("https://restcountries.com/v3.1/alpha/" + name)
+      .catch((error) => {
+        console.log(error);
+      })
+      .then((res) => {
+        setCountry(res?.data);
+        setFlag(res?.data[0]?.flags.svg);
+        setCoat(res?.data[0]?.coatOfArms?.svg);
+        axios
+          .get(
+            `https://api.openweathermap.org/data/2.5/weather?q=${res?.data[0]?.capital}&units=metric&appid=` +
+              "fb50cf639c1d62c4d1f519bfd8bacb5c"
+          )
+          .catch((err) => {
+            console.log(err);
+            setLoading(false);
+          })
+          .then((response) => {
+            setWeather(response?.data);
+            setLoading(false);
           });
-        });
-    };
+      });
+    setWeatherIcon(weather?.weather[0]?.icon);
+  }, []);
+
+  if (loading) {
+    return <p>loading...</p>;
   }
 
-  render() {
-    return (
-      <React.Fragment>
-        <div>
-          <h1>{this.state.data[0]?.name.common}</h1>
-          <p>{this.state.data[0]?.name.official}</p>
-          <img
-            src={`http://openweathermap.org/img/wn/${this.state?.weatherIcon}@2x.png`}
-            alt={this.state.weatherToday}
-          />
-          <p>Weather today: {this.state.weatherToday} </p>
-          {console.log(this.state.weatherToday)}
-        </div>
-        <div className="cardFlag">
-          <img
-            className="flagSingle"
-            src={this.state.data[0]?.flags.svg}
-            alt={this.state.data[0]?.name.common}
-          />
-        </div>
-        <div className="weather"></div>
-        <div className="mainSingle">
-          <div className="left"></div>
-          <div className="right"></div>
-        </div>
-      </React.Fragment>
-    );
-  }
-}
+  return (
+    <React.Fragment>
+      {/* {console.log(weather?.weather[0].description)} */}
+      <div>
+        <h1>{country[0]?.name.common}</h1>
+        <p>{country[0]?.name.official}</p>
+        <img
+          src={
+            weatherIcon
+              ? `http://openweathermap.org/img/wn/${weatherIcon}@2x.png`
+              : `http://openweathermap.org/img/wn/10d@2x.png`
+          }
+          alt={weather?.main}
+        />
+        <p>Weather today: {weather?.weather[0].description} </p>
+      </div>
+      <div className="cardFlag">
+        <img
+          className="flagSingle"
+          src={country[0]?.flags.svg}
+          alt={country[0]?.name.common}
+        />
+      </div>
+      <div className="weather"></div>
+      <div className="mainSingle">
+        <div className="left"></div>
+        <div className="right"></div>
+      </div>
+    </React.Fragment>
+  );
+};
 
 export default CountrySingle;
