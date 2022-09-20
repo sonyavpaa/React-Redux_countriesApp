@@ -1,6 +1,6 @@
 # Countires App
 
-School project done in BCH during Web Dev Studies in Autumn 2022. An app that lists countries and fetches some data about weather and from wikipedia.
+School project done in BCH during Web Dev Studies in Autumn 2022. An app that lists countries and fetches some data about weather and from Wikipedia.
 
 ## Tech used
 
@@ -10,8 +10,8 @@ School project done in BCH during Web Dev Studies in Autumn 2022. An app that li
 ## Stating the project
 
 ```cli
-npm start
 npm install
+npm start
 ```
 
 ## Localstorage + Redux
