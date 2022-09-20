@@ -1,13 +1,16 @@
+import { Main } from "grommet";
 import React from "react";
 
-import Header from "../components/Header";
-import Main from "../components/Main";
+import HeaderCustom from "../components/HeaderCustom";
+import List from "../components/List";
+import MainCustom from "../components/MainCustom";
 
 const LayOut = () => {
   return (
     <>
-      <Header></Header>
-      <Main></Main>
+      <HeaderCustom />
+      <MainCustom />
+      <footer></footer>
     </>
   );
 };

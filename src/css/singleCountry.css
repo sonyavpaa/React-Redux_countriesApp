@@ -1,5 +1,22 @@
-.flagSingle {
-  width: 20em;
+.leaflet-layer {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.cardFlag {
+  display: flex;
+  flex-direction: row;
+
+  width: auto;
+}
+
+.cardFlag p {
+  font-size: 2.5em;
+  font-style: italic;
+}
+
+h1 {
+  font-size: 3em;
 }
 
 .mainSingle {
@@ -14,14 +31,19 @@
 }
 
 .left {
-  margin-left: 1em;
+  padding-left: 1em;
   grid-area: "left";
   width: 90%;
-  border: 1px solid blue;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .right {
   grid-area: "right";
   width: 90%;
-  border: 1px solid red;
+}
+
+.right p {
+  font-family: inherit;
 }

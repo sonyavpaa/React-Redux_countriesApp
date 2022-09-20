@@ -52,3 +52,22 @@ li {
 .currency li {
   font-size: 0.7em;
 }
+
+.cardFooter {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+.favButton {
+  border: none;
+  margin-left: 23em;
+  background-color: white;
+  cursor: pointer;
+}
+
+.heart {
+  color: pink;
+  background-color: none;
+}
