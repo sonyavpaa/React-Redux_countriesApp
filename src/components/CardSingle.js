@@ -53,17 +53,17 @@ const CardSingle = (props) => {
         </div>
       </CardBody>
       <footer className="cardFooter">
-        <Link to={`/${props.ccn3}`}>See more!</Link>
+        <Link to={`/${props.link}`}>See more!</Link>
 
         <button
           className="favButton"
           onClick={() =>
-            favList.some((item) => item.nameCommon == props.nameCommon)
+            favList.some((item) => item.nameCommon === props.nameCommon)
               ? dispatch(deleteFavourite(props))
               : dispatch(addFavourite(props))
           }
         >
-          {favList.some((item) => item.nameCommon == props.nameCommon) ? (
+          {favList.some((item) => item.nameCommon === props.nameCommon) ? (
             <span className="material-icons-outlined heart">favorite</span>
           ) : (
             <span className="material-icons-outlined heart">

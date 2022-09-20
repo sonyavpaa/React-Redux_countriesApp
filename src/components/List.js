@@ -52,6 +52,7 @@ const List = () => {
   if (countries) {
     return (
       <div>
+        <h1>Countries</h1>
         <input
           className="searchBar"
           type="search"
@@ -69,7 +70,7 @@ const List = () => {
                 currencies={country.currencies}
                 nameCommon={country.name.common}
                 nameOfficial={country.name.official}
-                ccn3={country.ccn3}
+                link={country.name.common}
                 flag={country.flags.svg}
                 state={country}
               />

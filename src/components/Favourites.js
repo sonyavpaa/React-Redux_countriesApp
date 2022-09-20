@@ -1,12 +1,10 @@
 import { useEffect } from "react";
 import React from "react";
-import axios from "axios";
+
 import "../css/style.css";
 import CardSingle from "./CardSingle";
 
 import {
-  getData,
-  countriesData,
   searchFilter,
   searchValue,
   loadingValue,
@@ -60,6 +58,7 @@ const List = () => {
 
   return (
     <React.Fragment>
+      <h1>Favourites</h1>
       <div>
         <input
           className="searchBar"
@@ -80,7 +79,7 @@ const List = () => {
                 currencies={country.currencies}
                 nameCommon={country.nameCommon}
                 nameOfficial={country.nameOfficial}
-                ccn3={country.ccn3}
+                link={country.nameCommon}
                 flag={country.flag}
                 state={country}
               />

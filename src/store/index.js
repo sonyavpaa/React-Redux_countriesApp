@@ -1,4 +1,4 @@
-import { configureStore, current } from "@reduxjs/toolkit";
+import { configureStore } from "@reduxjs/toolkit";
 
 import countrySlice from "./countrySlice";
 import favouritesSlice from "./favouritesSlice";

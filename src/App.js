@@ -25,15 +25,3 @@ const App = () => {
 };
 
 export default App;
-
-{
-  /* <Routes>
-  <Route path="/" element={<LayOut />}>
-    <Route index element={<Home />} />
-    <Route path="pokelist" element={<PokeList />} />
-    <Route path="pokelist/:pokesingle" element={<RouterWrapper />} />
-    <Route path="favlist" element={<FavList />} />
-    <Route path="about" element={<About />} />
-  </Route>
-</Routes>; */
-}
