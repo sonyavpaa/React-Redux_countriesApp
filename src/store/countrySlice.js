@@ -6,6 +6,7 @@ const countrySlice = createSlice({
     countries: [],
     searchValue: "",
     loading: true,
+    showButton: false,
     singleCountry: {
       capital: "",
       name: { common: "", official: "" },
@@ -13,6 +14,8 @@ const countrySlice = createSlice({
       weather: "",
       weatherIcon: "",
       coatOfArms: "",
+      countryNews: require("../components/sampleAPI.json"),
+      countryText: "",
     },
   },
   reducers: {
@@ -31,13 +34,19 @@ const countrySlice = createSlice({
       state.singleCountry.name.official = action.payload?.name.official;
       state.singleCountry.flag = action.payload?.flags.svg;
       state.singleCountry.coatOfArms = action.payload?.coatOfArms.svg;
-      // console.log("payload", action.payload);
     },
     setWeather(state, action) {
       state.singleCountry.weather = action.payload;
     },
-    setWeatherIcon(state, action) {
-      state.singleCountry.weatherIcon = action.payload;
+    setNewsAPI(state, action) {
+      state.singleCountry.countryNews = action.payload;
+      console.log(action.payload);
+    },
+    setCountryText(state, action) {
+      state.singleCountry.countryText = action.payload;
+    },
+    setShowButton(state, action) {
+      state.showButton = action.payload;
     },
   },
 });
@@ -48,12 +57,28 @@ export const {
   setLoading,
   getDataSingle,
   setWeather,
-  setWeatherIcon,
+  setCountryText,
+  setNewsAPI,
+  setShowButton,
 } = countrySlice.actions;
 export const countriesData = (state) => state.countries.countries;
 export const searchValue = (state) => state.countries.searchValue;
 export const loadingValue = (state) => state.countries.loading;
+export const showButton = (state) => state.countries.showButton;
+
 export const singleCountry = (state) => state.countries.singleCountry;
-export const weatherIcon = (state) => state.countries.weatherIcon;
+export const weatherIcon = (state) => {
+  try {
+    if (state.countries.singleCountry.weather.weather[0].icon)
+      return state.countries.singleCountry.weather.weather[0].icon;
+    else return "10d";
+  } catch (err) {
+    console.log("Error: ", err);
+  }
+};
+
+export const countryWikiText = (state) =>
+  state.countries.singleCountry.countryText;
+export const countryNews = (state) => state.countries.singleCountry.countryNews;
 
 export default countrySlice.reducer;

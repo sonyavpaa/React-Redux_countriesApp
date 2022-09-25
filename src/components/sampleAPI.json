@@ -1,167 +1,1306 @@
 {
-  "status": "success",
-  "totalResults": 527,
-  "results": [
+  "status": "ok",
+  "totalResults": 17624,
+  "articles": [
     {
-      "title": "Drei Lions in Nations League-Action während die WM-Vorbereitungen weitergehen, Ivan Toney plant sein Debüt in Mailand – Anstoßzeit, Team-News, weitere Informationen",
-      "link": "https://lomazoma.com/drei-lions-in-nations-league-action-waehrend-die-wm-vorbereitungen-weitergehen-ivan-toney-plant-sein-debuet-in-mailand-anstosszeit-team-news-weitere-informationen/",
-      "keywords": null,
-      "creator": null,
-      "video_url": null,
-      "description": "England wird seine Vorbereitungen auf die Weltmeisterschaft in diesem Winter mit zwei Duellen in der Nations League an diesem Wochenende intensivieren. Die Three Lions von Gareth Southgate treffen in dieser Länderspielpause auf Italien und Deutschland, ihre letzten Spiele, bevor das Vorzeigeturnier Mitte November beginnt. Am Freitagabend trifft England in der Nations League auf Italien Zunächst …",
-      "content": null,
-      "pubDate": "2022-09-19 10:44:24",
-      "image_url": null,
-      "source_id": "lomazoma",
-      "country": ["saudi arabia"],
-      "category": ["top"],
-      "language": "arabic"
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Mexico earthquake: Tremor hits on anniversaries",
+      "description": "A 7.6 magnitude earthquake has hit western Mexico on the anniversary of two other quakes in 1985 and 2017.",
+      "url": "https://www.bbc.co.uk/news/av/world-latin-america-62969295",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/120A/production/_126781640_p0d1cswk.jpg",
+      "publishedAt": "2022-09-20T10:38:36Z",
+      "content": "A powerful earthquake has killed at least one person after a 7.6 magnitude tremor hit western Mexico. \r\nIt took place on 19 September, which is the same date as two other fatal earthquakes in the cou… [+184 chars]"
     },
     {
-      "title": "Prince Harry Attends Queen Elizabeth’s Royal Funeral Service Not Wearing His Military Uniform",
-      "link": "https://etcanada.com/news/929632/prince-harry-attends-queen-elizabeths-royal-funeral-service-not-wearing-his-military-uniform/",
-      "keywords": null,
-      "creator": ["Becca Longmire"],
-      "video_url": null,
-      "description": "As the world watched Queen Elizabeth II‘s funeral on Monday, Prince Harry arrived wearing his morning suit and military medals. He then processed behind his grandmother’s coffin as it moved from Westminster Hall to Westminster Abbey for her State Funeral service. As has been an ongoing conversation throughout the official events surrounding the queen’s funeral, the Duke of",
-      "content": "As the world watched Queen Elizabeth II‘s funeral on Monday, Prince Harry arrived wearing his morning suit and military medals. He then processed behind his grandmother’s coffin as it moved from Westminster Hall to Westminster Abbey for her State Funeral service. As has been an ongoing conversation throughout the official events surrounding the queen’s funeral, the Duke of Sussex was not permitted to wear his military uniform to the State Funeral on Monday at Westminster Abbey. Prince William, Prince of Wales and Prince Harry, Duke of Sussex follow a gun carriage carrying the coffin of Queen Elizabeth II during the State Funeral of Queen Elizabeth II at Westminster Abbey on September 19, 2022 in London, England. (Photo by Emilio Morenatti – WPA Pool/Getty Images) His father, King Charles III, and older brother, Prince William, were both seen in their uniforms. Harry relinquished his honorary military titles in 2020 when he and his wife, Meghan Markle, stepped down as senior members of the royal family. Originally, the duke was not allowed to wear his military uniform to this weekend’s vigil, but was later permitted. In regard to his uniform, a spokesperson for Harry released a statement last week, saying, “Prince Harry, The Duke of Sussex will wear a morning suit throughout events honouring his grandmother. His decade of military service is not determined by the uniform he wears and we respectfully ask that focus remain on the life and legacy of Her Majesty Queen Elizabeth II.” While he didn’t wear his uniform to the funeral, King Charles III did permit Harry to wear it while standing vigil at his grandmother’s coffin for 15 minutes of silence alongside William and their cousins. The new Prince of Wales stood at the queen’s head while the Duke of Sussex stood at her feet. William was flanked by Princess Anne’s children, Zara Tindall and Peter Phillips, while Harry was flanked by Prince Andrew’s daughters, Princess Beatrice and Princess Eugenie, with Prince Edward’s children, Lady Louise Windsor and James, Viscount Severn, at the middle of the coffin. This came after the late British monarch’s four children — King Charles III, Princess Anne, Prince Andrew, and Prince Edward — all stood at her coffin on Friday. William and Harry also processed behind their grandmother’s coffin as it travelled from Buckingham Palace to Westminster Hall on Wednesday, following the long-reigning queen’s death on Sept. 8 at age 96. The brothers famously processed behind the coffin of their late mother, Princess Diana, at her 1997 funeral. Most recently, they reunited in April 2021 to walk behind the coffin of Prince Philip during his intimate funeral in Windsor, England. MORE FROM ET: Prince George, Princess Charlotte to Join Queen’s Funeral Procession Queen Elizabeth Smiles in Final Portrait Released Ahead of Her Funeral Prince Harry, William, Queen’s Grandchildren Stand Vigil at Her Coffin Click to View Gallery Guests Arrive At Queen Elizabeth II’s State Funeral Next Slide",
-      "pubDate": "2022-09-19 10:43:38",
-      "image_url": null,
-      "source_id": "etcanada",
-      "country": ["canada"],
-      "category": ["entertainment"],
-      "language": "english"
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "Starlink Internet Was Down, and Is Still a Little Spotty",
+      "description": "Starlink internet users experienced an outage on Tuesday that spanned across different parts of the world, from the U.S. to New Zealand, Mexico and the Netherlands.Read more...",
+      "url": "https://gizmodo.com/starklink-internet-spacex-elon-musk-1849472932",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c1463b3fa7c2bc4aaffd2f6867ef8f31.jpg",
+      "publishedAt": "2022-08-30T14:25:00Z",
+      "content": "Starlink internet users experienced an outage on Tuesday that spanned across different parts of the world, from the U.S. to New Zealand, Mexico and the Netherlands.\r\nThe global outage lasted for a fe… [+2172 chars]"
     },
     {
-      "title": "T20 World Cup: Couldn't have found a better partner to watch this- Yuvraj Singh relives six 6s moment",
-      "link": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-couldn-t-have-found-a-better-partner-to-watch-this-yuvraj-singh-relives-6-sixes-moment-yuvraj-singh-with-son-2022-09-19-809595",
-      "keywords": null,
-      "creator": null,
-      "video_url": null,
-      "description": "T20 World Cup: It's the 19th of September, a historic date in Indian cricket when India's Yuvraj Singh took England's Stuart Broad to the cleaners at Durban. Yuvraj achieved an iconic feat in the 19th over as he became the first Indian cricketer to smash six 6s in an over in International Cricket. He also registered the record for the fastest fifty in T20I cricket. Even after 15 years, these records stand unbeaten by any Indian cricketer.",
-      "content": null,
-      "pubDate": "2022-09-19 10:20:43",
-      "image_url": null,
-      "source_id": "indiatvnews",
-      "country": ["india"],
-      "category": ["sports"],
-      "language": "english"
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Valero holds talks with Mexico over inflated gasoline import invoices, Mexico says - Reuters",
+      "description": "U.S. refiner Valero Energy <a href=\"https://www.reuters.com/companies/VLO.N\" target=\"_blank\">(VLO.N)</a> has engaged in talks with the Mexican government over inflated invoices for fuel imports, President Andres Manuel Lopez Obrador said on Monday, and the co…",
+      "url": "https://www.reuters.com/business/energy/valero-holds-talks-with-mexico-over-inflated-gasoline-import-invoices-mexico-2022-09-12/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=109",
+      "publishedAt": "2022-09-12T22:12:00Z",
+      "content": "MEXICO CITY/HOUSTON, Sept 12 (Reuters) - U.S. refiner Valero Energy (VLO.N) has engaged in talks with the Mexican government over inflated invoices for fuel imports, President Andres Manuel Lopez Obr… [+1528 chars]"
     },
     {
-      "title": "Big Ben chimes, hymns mark start of state funeral for Queen Elizabeth II",
-      "link": "https://www.business-standard.com/article/international/big-ben-chimes-hymns-mark-start-of-state-funeral-for-queen-elizabeth-ii-122091900657_1.html",
-      "keywords": null,
-      "creator": null,
-      "video_url": null,
-      "description": "The funeral service is being led by the Dean of Westminster and will include many personal touches of the late monarch, who was also the head of the Church of England",
-      "content": null,
-      "pubDate": "2022-09-19 10:19:59",
-      "image_url": null,
-      "source_id": "business-standard",
-      "country": ["india"],
-      "category": ["top"],
-      "language": "english"
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico closes U.S. labor probe at VU Manufacturing under USMCA - Reuters",
+      "description": "Mexico has closed a labor complaint brought by the U.S. government under a regional trade agreement at auto-parts plant VU Manufacturing in northern Mexico, Mexico's economy and labor ministries said on Wednesday.",
+      "url": "https://www.reuters.com/markets/emerging/mexico-closes-us-labor-probe-vu-manufacturing-under-usmca-2022-09-14/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=109",
+      "publishedAt": "2022-09-14T19:44:00Z",
+      "content": "MEXICO CITY, Sept 14 (Reuters) - Mexico has closed a labor complaint brought by the U.S. government under a regional trade agreement at auto-parts plant VU Manufacturing in northern Mexico, Mexico's … [+933 chars]"
     },
     {
-      "title": "Meghan Markle Attends Queen Elizabeth II’s State Funeral Wearing Touching Tribute",
-      "link": "https://etcanada.com/news/929624/meghan-markle-attends-queen-elizabeth-iis-state-funeral-wearing-touching-tribute/",
-      "keywords": null,
-      "creator": ["Becca Longmire"],
-      "video_url": null,
-      "description": "Meghan Markle is paying her final respects to Queen Elizabeth II. The 41-year-old Duchess of Sussex attended the State Funeral of the late British monarch on Sunday at Westminster Abbey. She arrived solo as her husband, Prince Harry, participated in the procession behind the queen’s coffin from Westminster Hall to Westminster Abbey. The duchess wore a wide-brimmed black hat, black dress",
-      "content": "Meghan Markle is paying her final respects to Queen Elizabeth II. The 41-year-old Duchess of Sussex attended the State Funeral of the late British monarch on Sunday at Westminster Abbey. She arrived solo as her husband, Prince Harry, participated in the procession behind the queen’s coffin from Westminster Hall to Westminster Abbey. The duchess wore a wide-brimmed black hat, black dress with attached cape, black tights and heels. She was wearing the pearl and diamond drop earrings that the late monarch gifted her during their first solo outing together in 2018. Her hair was slicked back into an elegant bun. Following the funeral, Markle is expected to join Sophie, the Countess of Wessex, who is the wife of the queen’s youngest son, Prince Edward, in a car behind the procession. Prince Harry is participating in the procession alongside his father, King Charles III, and older brother, Prince William. The procession will take the coffin from Westminster to Wellington Arch. From there the coffin will travel to the nearby Windsor, England, where the State Hearse will travel in procession to St. George’s Chapel, Windsor Castle via the Long Walk. A Committal Service will then take place in St George’s Chapel, the queen’s final resting place. Harry and Meghan have been somewhat estranged from the royal family since their decision to step down as senior members and to relocate their own family to California in 2020. But since the queen’s death earlier this month, they have been spotted out several times with the royals. Prince William invited Harry and Meghan to join him and wife Kate Middleton outside of Windsor Castle to greet mourners last week. Harry and Meghan also joined the royals to receive the queen’s coffin at Buckingham Palace. Harry was a part of the procession of the coffin from Buckingham Palace to Westminster Hall, and met Meghan at Westminster for the Service for the Reception of Her Majesty’s Coffin. On Saturday, Harry alongside William and their cousins all stood guard at the queen’s coffin in a touching vigil. MORE FROM ET: Why Titles of Prince Harry, Meghan Markle’s Children Matter to Royals Meghan Markle Gets Hug From Teen Girl While Mourning Queen Elizabeth Meghan Markle & Kate Middleton Honoured Queen Elizabeth at Her Service Click to View Gallery Guests Arrive At Queen Elizabeth II’s State Funeral Next Slide",
-      "pubDate": "2022-09-19 10:13:05",
-      "image_url": null,
-      "source_id": "etcanada",
-      "country": ["canada"],
-      "category": ["entertainment"],
-      "language": "english"
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "BBVA Mexico grants $225 mln green loan to fund Toyota hybrid vehicles - Reuters",
+      "description": "BBVA Mexico has issued a 4.5 billion pesos ($225 million) green loan to Toyota Financial Services Mexico to finance hybrid vehicles, according to a statement published by the bank on Thursday.",
+      "url": "https://www.reuters.com/business/autos-transportation/bbva-mexico-grants-225-mln-green-loan-fund-toyata-hybrid-vehicles-2022-09-22/",
+      "urlToImage": "https://www.reuters.com/resizer/rJ0-UmEn1-YhR30RZadpscq0T5Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4RUCLBIJ3RK7FFBFCU7RIEC67Y.jpg",
+      "publishedAt": "2022-09-22T15:29:00Z",
+      "content": "MEXICO CITY, Sept 22 (Reuters) - BBVA Mexico has issued a 4.5 billion pesos ($225 million) green loan to Toyota Financial Services Mexico to finance hybrid vehicles, according to a statement publishe… [+303 chars]"
     },
     {
-      "title": "Trauerfeier für Queen Elizabeth II.: Zehn der wichtigsten Momente ihres Lebens",
-      "link": "https://www.watson.de/unterhaltung/geschichte/922759558-queen-elizabeth-ii-die-wichtigsten-momente-und-bilder-ihres-lebens",
-      "keywords": null,
-      "creator": ["Ronja Brier"],
-      "video_url": null,
-      "description": "Zehn der wichtigsten Momente ihres Lebens",
-      "content": "Queen Elizabeth II. regierte 70 Jahre lang in Großbritannien. Bild: Getty Images Europe / WPA PoolIhr Amtsantritt kam völlig überraschend – auch für sie selbst. 1952 wurde Elizabeth nach dem plötzlichen Tod ihres Vaters Königin von England. 70 Jahre lang prägte sie das Bild der britischen Monarchie und des gesamten Landes. Das ist eine Zeitspanne, in der viel passiert ist und in der sie auch persönlich viel erlebt hat.Zum Tod und zur Trauerfeier der Königin hat watson die zehn wichtigsten Momente ihres Lebens zusammengestellt: Die zehnjährige Elizabeth wird plötzlich Thronfolgerin, als ihr Onkel König Edward VIII. abdankt. Bild: Everett Collection / imagoElizabeth war gerade zehn Jahre alt, als König Edward VIII., der ihr Onkel war, plötzlich abdankte. Er wollte die geschiedene US-Amerikanerin Wallis Simpson heiraten – und konnte damit nicht mehr König sein. Durch diesen Schritt wurde Elizabeths Vater Prinz Albert automatisch König – und sie selbst die nächste Thronerbin. ...(Auf https://www.watson.de lesen)",
-      "pubDate": "2022-09-19 10:11:57",
-      "image_url": null,
-      "source_id": "watson",
-      "country": ["germany"],
-      "category": ["entertainment"],
-      "language": "german"
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Steve Bannon Says He's Being Indicted Again Because His Podcast Is Too Powerful",
+      "description": "Steven Bannon, the former advisor to Donald Trump who helped turn the neo-fascist billionaire into a mainstream political entity, is expected to be indicted this week on new charges relating to his alleged scam to build a wall on private property at the U.S.-…",
+      "url": "https://gizmodo.com/steve-bannon-trump-indicted-again-podcast-too-powerful-1849504346",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0f40746fce57612bfd6c7044df378fbf.png",
+      "publishedAt": "2022-09-07T10:30:00Z",
+      "content": "Steven Bannon, the former advisor to Donald Trump who helped turn the neo-fascist billionaire into a mainstream political entity, is expected to be indicted this week on new charges relating to his a… [+6112 chars]"
     },
     {
-      "title": "Princess Eugenie wears black headwear and coat-dress to the Queen’s funeral",
-      "link": "https://metro.co.uk/2022/09/19/princess-eugenie-wears-black-headwear-and-coat-dress-to-the-queens-funeral-17400212/",
-      "keywords": [
-        "Fashion",
-        "Princess Eugenie",
-        "Queen Elizabeth II",
-        "Royal Family"
-      ],
-      "creator": ["Dayna McAlpine"],
-      "video_url": null,
-      "description": "Princess Eugenie honoured her Grannie in a sweet way.",
-      "content": "Princess Beatrice and Edoardo Mapelli Mozzi arriving at the State Funeral of Queen Elizabeth II, held at Westminster Abbey, London (Credits: PA) Princess Eugenie arrived at the Queen’s funeral dressed head-to-toe in black to mourn her late grandmother. Eugenie teamed an all-black outfit of a long black coat-style dress with gold button detailing. She paired the outfit with a wide brimmed hat, black tights and a pair of heels. She arrived at Westminster Abbey with her sister, Princess Beatrice, by her side. Princess Eugenie also arrived with Mike Tindall and Zara Tindall, her husband Jack Brooksbank and Princess Beatrice’s husband Edoardo Mapelli Mozzi. The Princesses originally entered the church with their mother Sarah Ferguson, the Duchess of York. The sisters had a close relationship with Queen Elizabeth II, who they simply referred to as ‘Grannie’. Princess Eugenie arrives at Westminster Abbey with husband Jack Brooksbank (Photo by Phil Noble – WPA Pool/Getty Images) Having grown up living in close proximity to Windsor castle, the York family would often journey over to visit the late monarch, who was said to have a ‘maternal’ relationship with the girls. Royal author Angela Levin once said that the Queen ‘felt more maternal towards Beatrice and Eugenie and could see that they’d had a very hard time’. Eugenie hasn’t often worn the Queen’s jewellery, but opted for two significant pieces for her wedding day. The first was the grand Greville Emerald Kokoshnik tiara, left to the Queen by the Queen Mother but left unworn until 2018, when Elizabeth II lent this special piece to Eugenie for her big day. The Queen lent Princess Eugenie the Greville Emerald Kokoshnik tiara for her wedding day (Picture: Pool/Samir Hussein/WireImage) Queen Elizabeth II dead: Latest updates What time is the Queen’s funeral today and where is it taking place? Queen’s last official portrait released ahead of her funeral Drivers told ‘avoid central London’ with major road closures for Queen’s funeral Full schedule for the Queen's funeral and committal service Head to Metro.co.uk's Queen Elizabeth II tag page for the latest updates, and sign Metro.co.uk's book of condolence to Her Majesty here. {\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Metro.co.uk\",\"duration\":\"T40S\",\"thumbnailUrl\":\"https://i.dailymail.co.uk/1s/2018/10/14/12/5034166-0-image-a-3_1539515745352.jpg\",\"uploadDate\":\"2018-10-14T12:14:19+0100\",\"description\":\"Princess Eugenie and Jack Brooksbank have release official photos from their wedding, including a group photograph taken in the White Drawing Room at Windsor that shows both the bride and groom's families.\",\"contentUrl\":\"https://videos.metro.co.uk/video/met/2018/10/14/792148193978372077/480x270_MP4_792148193978372077.mp4\",\"height\":270,\"width\":480} To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video The second was more low-key: at Eugenie’s wedding reception, her hair slide was in fact a brooch owned by Her Majesty the Queen – Queen Victoria’s wheat-ear brooches, which the Queen wore multiple times throughout her reign. Along with Princess Beatrice, Princess Eugenie paid a powerful tribute to the Queen upon her death, writing: ‘Our dearest Grannie, We’ve not been able to put much into words since you left us all. ‘There have been tears and laughter, silences and chatter, hugs and loneliness, and a collective loss for you, our beloved Queen and our beloved Grannie. ‘We, like many, thought you’d be here forever. And we all miss you terribly. The Queen was said to have a very ‘maternal’ relationship with her granddaughter, Princess Eugenie (Picture: Max Mumby/Indigo/Getty Images) ‘You taught us so much and we will cherish those lessons and memories forever’ (Picture: Max Mumby/Indigo/Getty Images) ‘You were our matriarch, our guide, our loving hand on our backs leading us through this world. You taught us so much and we will cherish those lessons and memories forever. ‘For now dear Grannie, all we want to say is thank you. Thank you for making us laugh, for including us, for picking heather and raspberries, for marching soldiers, for our teas, for comfort, for joy. You, being you, will never know the impact you have had on our family and so many people around the world. ‘The world mourns you and the tributes would really make you smile. They are all too true of the remarkable leader you are. ‘We’re so happy you’re back with Grandpa. Goodbye dear Grannie, it has been the honour of our lives to have been your granddaughters and we’re so very proud of you. ‘We know that dear Uncle Charles, the King, will continue to lead in your example as he too has dedicated his life to service. ‘God save the King. ‘With our love, Beatrice and Eugenie.’ A guide to some of the Queen's most iconic brooches and their meanings Queen Elizabeth II had a collection of more than 100 brooches, but there were some that held extra special meaning. Here's your cheat sheet. The sapphire chrysanthemum brooch The Queen and Prince Philip's honeymoon photos (Picture: Topical Press Agency/Hulton Archive/Getty Images) Elizabeth wore this brooch for the Christening of Princess Anne (Picture: ullstein bild/ullstein bild via Getty Images) Queen Elizabeth II and Prince Philip, The Duke of Edinburgh re-visit Broadlands, to mark their Diamond Wedding Anniversary on November 20 (Picture: Tim Graham/Getty Images) The Sapphire chrysanthemum brooch is a simple but statement design, with multiple platinum-set sapphires surrounded by diamond petals. It was given to the then Princess Elizabeth for launch the British Princess oil tanker in 1946, and she went on to wear it for many key moments, including her honeymoon, Princess Anne's Christening, and her and Prince Philip's diamond wedding anniversary. The Dorset bow brooch At the Christening of Charles (Picture: mirrorpix/Mirrorpix/Mirrorpix via Getty Images) A family heirloom, the Dorset bow brooch was Queen Mary's wedding gift from the county of Dorset. It was then given to Elizabeth for her wedding, and she went on to wear it frequently, including for the Christening of Prince Charles. It was often used to symbolise remembrance - the Queen wore it for many Remembrance Day events, as well as for the funeral of the Duke of Windsor. The Queen Mother’s art deco leaf brooch Yes, that is Charles (Picture: INTERCONTINENTALE / AFP) (Photo by -/INTERCONTINENTALE/AFP via Getty Images) Crafted by Cartier in 1928, this brooch was passed along quite a bit, given by King George VI to Queen Elizabeth the Queen Mother, then to Queen Elizabeth II (Princess Elizabeth at the time) as a birthday present. She wore it many times in the 1950s, including in the moment above, when she touched down in London after a trip to Italy. The aquamarine clip brooches The set was made by Boucheron ten years before being given to Elizabeth on her 18th birthday (Picture: Jack Hill - WPA Pool/Getty Images) She often wore the pin pair with blue-toned outfits (Picture: Chris Jackson - WPA Pool/Getty Images) These twin brooches were Queen Elizabeth II's 18th birthday gift from her parents, so it's no surprise that the monarch absolutely adored them. She wore the set many, many times during her reign, especially on anniversaries connected to her father's memory, such as on the date of her Jubilee. You'll spot the striking blue duo in photos from the Queen's message for her diamond Jubilee in 2012, for lunch with the Obamas in 2016, and for the opening of Parliament in 2021. The diamond clematis brooch The first official photograph of Princess Elizabeth with her fiance Philip Mountbatten at Buckingham Palace, in 1947 (Picture: Central Press/Getty Images) And here she is wearing the same brooch in 2014 (Picture: Chris Watt/Getty Images) Queen Elizabeth wore this gloriously sparkly diamond brooch for her official engagement photos, and went on to bring it out multiple times over the next decades. The City of London lily brooch Celebrating the Queen Mother's 101st birthday (Picture: Sion Touhig/Getty Images) Elizabeth was given this hefty diamond-encrusted lily design when she received the Freedom of the City of London. She went on to wear it a bunch, most notably for the Queen Mother's 101st birthday and the private service for Princess Margaret. The flower basket brooch The Queen wore this joyous style for many celebrations (Picture: Tim Graham Photo Library via Getty Images) This colourful style was another gift from the Queen's parents, this time to mark the birth of Charles. Years on, she wore it for Prince George's Christening, too. Queen Adelaide's brooch The Queen Adelaide brooch was passed down from the Queen Mother to Elizabeth (Picture: JOHN STILLWELL/POOL/AFP via Getty Images) You might recognise this diamond brooch from the opening ceremony of the 2012 Olympics. It was created for King William IV's consort, Queen Adelaide, reusing other jewels to form what was intended as a clasp for a pearl necklace. It has a large centre diamond, six around it, and smaller stones to complete the design. The Kent amethyst brooch Worn here with the matching earrings and necklace, in Portugal in 1985 (Picture: Tim Graham Photo Library via Getty Images) The Kent amethyst brooch is actually multiple brooches. The main part is the one you'll see most often, the top hexagonal amethyst surrounded by diamond sun rays. This has some small loops at the bottom, allowing for three smaller amethysts to be attached. It's thought that there may be some additional brooch parts, but that these were rarely worn or were attached to the matching necklace instead. The set was owned by Queen Victoria's mother, the Duchess of Kent, who left it to her daughter, who then passed it down again. Queen Elizabeth II was given the sparkling jewels after her accession, and wore the different parts many times over the years. Prince Albert's sapphire and diamond brooch (also known as Queen Victoria's wedding brooch) President John F Kennedy and First Lady Jackie Kennedy pay a visit to the royal family (Picture: Bettmann Archive) The Queen wore this brooch for Prince William's Christening, too (Picture: by Tim Graham Photo Library via Getty Images) Queen Elizabeth II visits the Children's Wood Project, a community project in Glasgow as part of her traditional trip to Scotland for Holyrood Week on June 30, 2021 (Picture: Andrew Milligan-WPA Pool/Getty Images) Prince Albert gave this brooch - a massive sapphire set in gold and surrounded by 12 diamonds - to Queen Victoria the day before their wedding, and she went on to wear it over and over again until Albert passed away. It was passed down to the Crown and once in Queen Elizabeth II's posession, became one of her favourites. She wore this brilliant blue piece for Prince William's Christening as well as for her Christmas message in 2019. Queen Victoria's diamond bow brooches Britain's Queen Elizabeth II and Britain's Prince Philip, Duke of Edinburgh, leave St Paul's Cathedral at the end of the ceremonial funeral of British former prime minister Margaret Thatcher (Picture: LEON NEAL / AFP) (Photo by LEON NEAL/AFP via Getty Images) Yep, plural - but Queen Elizabeth II only really wore one at a time. This was a set of three bow-shaped diamond brooches, commissioned by Queen Victoria from Garrard and passed down to Alexandra, then to Mary, then to Elizabeth I, then finally to Queen Elizabeth II. The Queen wore pieces of this set for many Remembrance events as well as Margaret Thatcher's funeral. Queen Victoria's ears of wheat Here the Queen is wearing one of the six brooches as a hair accessory (Picture: Tim Graham Photo Library via Getty Images) And here are two worn as brooches, in Oman (Picture: Chris Jackson/Getty Images) Another set that's larger than you might realise. There are in fact six of these large diamond ears of wheat, but the Queen typically wore two at a time. They were made for Queen Adelaide at the request of her husband by Rundell, Bridge & Co, then redone by Garrard in 1858. Queen Elizabeth II wore the wheat ears not only as brooches but as hair ornaments, too, and lent them to Princess Eugenie for her wedding reception. The Cambridge emerald cluster brooch M Queen Elizabeth II arrives at Holden Point to view the 2012 Olympic park site (Picture: Chris Jackson/Getty Images) A round emerald surrounded by diamonds, with the option to dangle another Cambridge emerald pendant. Cambridge pearl pendant brooch The Queen wore this simple pearl brooch for her 50th birthday portrait (Picture: Bettmann Archive) This pretty pearl brooch belonged to the Duchess of Cambridge - no, not Kate, but Queen Mary's grandmother, Princess Augusta. In 1953, Queen Mary then passed it down to Elizabeth II. The late monarch wore the piece for her 50th birthday portrait, for her 2014 Christmas message, and in a Zoom call in 2021. The Queen Mother's palm leaf brooch (also known as the paisley brooch) Queen Elizabeth II attends the wedding of Lady Gabriella Windsor and Mr Thomas Kingston at St George's Chapel on May 18, 2019 in Windsor, England (Picture: Mark Cuthbert/UK Press via Getty Images) One of the Queen's most frequently worn brooches, this is a simpler diamond design in the shape of a leaf. The Queen Mother loved this particular piece of jewellery, wearing it repeatedly throughout her life - including while mourning King George VI. Queen Alexandra's wedding gift brooch Queen Elizabeth II and Prince Philip, Duke of Edinburgh in the Royal Box at the Royal Albert Hall during the Annual Festival of Remembrance on November 7, 2015 (Picture: Chris Jackson - WPA Pool/Getty Images) Here, the Duchess wears the matching necklace (Picture: John Stillwell - WPA Pool/Getty Images) This brooch forms part of a grand Garrard set made for Princess Alexandra of Denmark for her wedding, comprised of a large diamond tiara, a diamond and pearl necklace, a set of earrings, and a brooch. The Queen often wore the brooch, particularly for Remembrance events, and the earrings, while Kate Middleton and the Queen Mother have been spotted wearing the necklace. The modern diamond and ruby spray brooch Queen Elizabeth II talks with MI5 officers during a visit to the headquarters of MI5 at Thames House on February 25, 2020 (Picture: Victoria Jones - WPA Pool/Getty Images) The Queen often wore this with red outfits, for obvious reason: the rubies made the brooch a natural accessory. She wore it for multiple state dinners and her diamond Jubilee walk. Queen Mary's Richmond brooch Elizabeth II wore this hefty brooch for Meghan and Harry's weddin Pool/Max Mumby/Getty Images) A super ornate pearl and diamond design that the Queen wore for the wedding of Harry and Meghan. Queen Mary's pink sapphire and diamond brooch Queen Elizabeth II attends Christmas Day Church service at Church of St Mary Magdalene on the Sandringham estate on December 25, 2018 (Picture: UK Press Pool/UK Press via Getty Images) A sweet pink sapphire, surrounded by large round diamonds and smaller diamonds between the stones, the Queen wore this one frequently through the years, including for a portrait (by Mary McCartney, daughter of Paul) to commemorate her becoming the longest-reigning British monarch. True lover's knot brooch The Queen wore the true lover's knot brooch for Kate and William's wedding (Picture: Chris Jackson/Getty Images) Another one of the Queen's diamond bows, this appears to be the largest of the bunch. It was made by Garrard for Queen Mary and inherited by Elizabeth II in 1953. She often wore it to hold her poppy on Remembrance Day, and donned it for Will and Kate's wedding in 2018. The New Zealand silver fern brooch Here's the Queen wearing the New Zealand fern brooch in an official portrait... (Picture: Pool/Samir Hussein/WireImage) And here's Kate wearing that very same brooch on the same tour of New Zealand (Picture: Pool/Samir Hussein/WireImage) As the name suggests, the Queen wore this brooch for events related to New Zealand, after being given it by the wife of the Mayor of Auckland for Christmas in 1953. Elizabeth II even lent it to Kate, now the Princess of Wales, for her tour of New Zealand in 2014. The pearl triangle brooch The Queen had this brooch since at least the 1950s (Picture: Mark Large - WPA Pool /Getty Images) One of the more delicate, smaller pearl brooches owned by the Queen, comprised of two pearls and a yellow diamond set in a diamond frame. Elizabeth wore this for her walkabout outside St James Palace on the day before Princess Diana's funeral, as well as for a wedding anniversary portrait in 1979. The golden dahlia brooch (also known as the golden sunflower brooch) An obvious choice for the Chelsea Flower Show in 2003 (Picture: Anwar Hussein/Getty Images) Another work by Garrard, the Queen clearly loved this accessory, wearing it for public appearances at least 40 times. It has a diamond flower (dahlia or sunflower? That's up to you...) surrounded by 18 carat gold petals. The grima ruby brooch (also known as the scarab brooch) It's quite the statement piece (Picture: Mark Cuthbert/UK Press via Getty Images) The Queen received this brooch - made up of repurposed rubies, gold, and diamonds and created by jeweller Andrew Grima - from the Duke of Edinburgh, and went on to wear it in tribute to the Duke after his passing. Elizabeth also opted for this brooch for her 70th wedding anniversary portrait. The Jardine star brooch Queen Elizabeth II arrives to address both Houses of Parliament at Westminster Hall on March 20, 2012 (Picture: Toby Melville - WPA Pool/Getty Images) This one feels quite Christmassy, no? The Jardine star was left to the Queen by Lady Jardine, and has eight twinkling diamond rays that surround a central cluster of eight diamonds. The diamond and pearl leaf brooch The Queen wore this pearl and diamond leaf brooch in 1999, and passed it on to Kate Middleton in later years (Picture: PA) The Princess of Wales wore the piece for the procession of the Queen's coffin (Picture: Marco BERTORELLO / AFP) Kate, Princess of Wales, wore this brooch to the procession of the Queen's coffin. This isn’t one of Queen Elizabeth II’s most well-known brooches – in fact, it’s rarely been seen. The Queen was spotted wearing it on a yellow dress back in 1999, in Seoul, but we knew it had been passed along to Kate more recently, as the Princess of Wales donned it for a visit to Belgium. Queen Victoria's 11 pearl and diamond brooch LONDON, ENGLAND - MARCH 13: Queen Elizabeth II departs a Service of Commemoration for troops who were stationed in Afghanistan on March 13, 2015 in London, England. (Photo by Chris Jackson/Getty Images) Another pearl brooch that belonged to Queen Victoria, this one has 11 large pearls; eight in a diamond shape and three hanging down as pendants. It was handed to the Crown and worn frequently by the Queen Mother until 2002, when it was passed on to Queen Elizabeth II, who has worn it multiple times to the Royal Windsor Horse Show. The Courtauld Thomson scallop shell brooch (also known as the Queen Mother's shell brooch) Queen Elizabeth, The Queen Mother, arrives at The Guildhall with Princess Margaret, London, for a lunch to celebrate her 100th Birthday, 27th June 2000 ((Picture: Colin Davey/Getty Images) After her mother's death, Queen Elizabeth II wore this statement brooch often (Picture: Max Mumby/Indigo/Getty Images) A rather grand design in the shape of a shell, this has solid rows of diamonds with a pearl at the base. It was designed by Lord Courtauld-Thomson for the Queen Mother, who went on to wear it frequently - including for her 100th birthday celebrations. After the Queen Mother died, Elizabeth II took the shell brooch into her collection and wore it on multiple occasions, including Royal Ascot, a funeral, Remembrance Sunday, an Easter service, and her 2020 Christmas broadcast The Braemar feather brooch The Queen was given this eagle feather brooch for her golden Jubilee - it has a Jubilee stamp on the back (Picture: Chris Jackson/Getty Images) She wore it for every Braemar Gathering after that (Picture: Anwar Hussein/Getty Images) The Braemar Royal Highland Society gave this eagle's feather brooch - made with 24 carat yellow gold, white gold, silver, and platinum - to the Queen to mark her golden Jubilee. After that, the Queen wore this every year, for the annual Braemar Gathering. The Queen Mother's Cartier lily brooch Spot that long thing on the Queen's left shoulder? Yep, that's the Cartier brooch (Picture: Lewis Whyld /WPA Pool/Getty Images) This weighty design is sometimes called a footlong, but in fact measures in at just under 7 inches long... which is still giant for a brooch. Picture a 6inch Subway sandwich on your lapel - it'd make quite the statement. The brooch, of course, is not made of bread and your choice of fillings, but instead more than 200 diamonds from the Queen Mother's collection, then an extra 50 added by Cartier for good measure. The dramatic piece was commissioned in 1939 for the Queen Mother, and has a long stem with a lily flower design at the top. Because of its size, Queen Elizabeth II didn't wear it often, but when she did, you couldn't help but marvel at it. The Queen Mother's aquamarine art deco brooch Queen Elizabeth II attends Trooping Of The Colour in 2021 (Picture: Chris Jackson/Getty Images) You will have spotted this pinned to many of Queen Elizabeth II's blue outfits, for obvious reasons. It's not known who made this particular piece, but many believe it's another Cartier classic. After the Queen Mother's death, Elizabeth II inherited the brooch and went on to wear it for one of her Christmas messages. The centenary rose brooch Queen Elizabeth II arrives by carriage as she attends Royal Ascot Day 3 at Ascot Racecourse on June 21, 2018 (Picture: Samir Hussein/Samir Hussein/WireImage) Christmas Day church service, 25 December 2004 (Picture: CHRIS RADBURN/AFP via Getty Images) Elizabeth II commissioned this pretty piece from Collins and Sons for the Queen Mother's 100th birthday. It has a hand-painted Grandiflora Rose - a flower grown by the Queen Mother - surrounded by 100 diamonds. The Queen went on to wear it after her mother's death, including for the Royal Windsor Horse Show and the 2004 Christmas service. MORE : A guide to some of the Queen’s most iconic brooches and the meaning behind them MORE : Camilla, Beatrice and Eugenie arrive at Buckingham Palace for Queen’s procession MORE : Why the Royal Family wear pearls in times of mourning",
-      "pubDate": "2022-09-19 10:05:44",
-      "image_url": "https://metro.co.uk/wp-content/uploads/2022/09/SEI_126038319-b1da.jpg?quality=90&strip=all",
-      "source_id": "metro",
-      "country": ["united kingdom"],
-      "category": ["top"],
-      "language": "english"
+      "source": {
+        "id": null,
+        "name": "Ctvnews.ca"
+      },
+      "author": null,
+      "title": "Mexico earthquake: At least 2 dead - CTV News",
+      "description": "<ol><li>Mexico earthquake: At least 2 dead  CTV News\r\n</li><li>6.8 magnitude earthquake shakes Mexico, 1 dead - World News  Castanet.net\r\n</li><li>Magnitude 6.8 quake strikes western Mexico days after deadly temblor  National Post\r\n</li><li>At least two dead …",
+      "url": "https://www.ctvnews.ca/world/6-8-magnitude-earthquake-shakes-mexico-2-dead-1.6079070",
+      "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/9/22/house-damaged-by-an-earthquake-in-mexico-1-6079072-1663846074461.jpg",
+      "publishedAt": "2022-09-22T11:28:49Z",
+      "content": "MEXICO CITY - \r\nA powerful magnitude 6.8 earthquake struck Mexico early Thursday, causing at least two deaths, damaging buildings and setting off landslides.\r\nThe earthquake struck at 1:19 a.m. near … [+1206 chars]"
     },
     {
-      "title": "Watch: Yuvraj Singh's 'six sixes' in one over against England's Stuart Broad in ICC T20 Wold Cup 2007",
-      "link": "https://zeenews.india.com/cricket/this-day-that-year-yuvraj-singh-became-first-t20i-player-to-smash-six-sixes-in-one-over-in-2007-t20-world-cup-watch-2511891.html",
-      "keywords": null,
-      "creator": null,
-      "video_url": null,
-      "description": "After exchanging a few heated words with all-rounder Andrew Flintoff, Yuvraj was all fired up, all set to unleash his hard-hitting game against England.",
-      "content": "On this day in 2007, former Indian all-rounder Yuvraj Singh became the first-ever T20I batter and second batter in international cricket after South Africa's Herschelle Gibbs (ODI) to smash six sixes in an over, against England at Durban during the ICC T20 World Cup 2007. It was the Super Eight phase of the World Cup. After losing their first matches, both India and England desperately needed a win to boost their chances in semis. It's been 15 years since Yuvraj Singh's carnage on Stuart Broad by smashing him for 6 sixes in an over. What an unforgettable event that was for India! pic.twitter.com/eZL7KSLAI0 — Mufaddal Vohra (@mufaddal_vohra) September 19, 2022 India were dominating their second Super Eight match against England, at 171/3 in 18 overs after choosing to bat first. After exchanging a few heated words with all-rounder Andrew Flintoff, Yuvraj was all fired up, all set to unleash his hard-hitting game against England. But what happened later was unprecedented in the shortest format of the game. Stuart Broad, who came to bowl the 19th over, was smashed for 6,6,6,6,6,6. Flintoff and Yuvraj had an argument and it was Broad who paid the price. The pacer was smashed all over the park, with one six going to the cow corner, the second one a flick over backward square leg, the third being a hit over extra cover region. The fourth ball saw Yuvraj smash a full toss to the backward point region, making it four sixes in a row. The southpaw smashed the fifth ball over midwicket region. The final and landmark-making sixth six was smacked over the mid-on region, much to the delight of Indian fans in the crowd. With this, he also reached his half-century, the fastest in T20I cricket history, in just 12 balls. \"And he has put it away...YES! Six sixes in an over. Yuvraj Singh finishes things off in style!\" these words of commentator and former cricketer Ravi Shastri were the finishing touches that this remarkable moment needed and deserved. These words still ring in the ears of millions of fans. Thanks to these sixes, India finished things at 218/4 in 20 overs, with Yuvraj scoring 58 off just 16 balls with three fours and seven sixes and a massive strike rate of 362.50. Contributions from openers Gautam Gambhir (58) and Virender Sehwag (68) also helped Men in Blue reach this score. Chasing 219, England could only score 200/6 in their 20 overs. Knocks from Vikram Solanki (43) and Kevin Pietersen (39) were solid, but pacer Irfan Pathan (3/37) and RP Singh (2/28) kept the run flow in control to help Team India win the match by 18 runs.",
-      "pubDate": "2022-09-19 10:00:00",
-      "image_url": null,
-      "source_id": "zeenews",
-      "country": ["india"],
-      "category": ["sports"],
-      "language": "english"
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Volkswagen's Mexico factory workers reject union pay deal - Reuters.com",
+      "description": "Workers at Volkswagen's <a href=\"https://www.reuters.com/companies/VOWG_p.DE\" target=\"_blank\">(VOWG_p.DE)</a> Mexico factory on Wednesday rejected a deal for a 9% pay hike, according to an official statement, voting for a second time against what would have b…",
+      "url": "https://www.reuters.com/business/autos-transportation/volkswagens-mexico-factory-workers-reject-union-pay-deal-2022-09-01/",
+      "urlToImage": "https://www.reuters.com/resizer/067dckhdeN_c6um5WGN8iWqdp34=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VMSA6FNESFIR7EASWMBN4R34XY.jpg",
+      "publishedAt": "2022-09-01T05:51:00Z",
+      "content": "MEXICO CITY, Sept 1 (Reuters) - Workers at Volkswagen's (VOWG_p.DE) Mexico factory on Wednesday rejected a deal for a 9% pay hike, according to an official statement, voting for a second time against… [+611 chars]"
     },
     {
-      "title": "10 takeaways from the Patriots’ win over the Steelers",
-      "link": "https://www.patspulpit.com/2022/9/19/23360369/10-takeaways-patriots-steelers-nfl-week-2",
-      "keywords": null,
-      "creator": ["Pat Lane"],
-      "video_url": null,
-      "description": null,
-      "content": "The New England Patriots left Pittsburgh with a win over the Steelers , and are now 1-1 on the season. Their 17-14 victory may not have been the prettiest of all time, but, in the NFL, all that matters is that you get the W. So with that said, let’s get into the takeaways from the Patriots’ first win of the season. Mac Jones struggles: After a great rookie year, Mac Jones has looked a bit lost the first two games of this season. He had some questionable throws, including an interception and another that was eventually dropped by the defender. He also seemed to make up his mind about where he was going before the snap, which led to a few incompletions where there could have been easy completions. A good example of this was when he forced a throw to a triple-covered Jonnu Smith on third down with Jakobi Meyers by himself in the flat. Jones wasn’t making a lot of these mistakes last year, so there is hope that this is something he can clean up along the way. Fact is, if the Patriots want to be good on offense they are going to need their QB1 to be much better than he has been. Nelson Agholor has his best game as a Patriot: The Patriots needed a spark at the end of the first half, and Agholor stepped up and delivered it. With under 30 seconds left before intermission, Jones threw a deep ball up for Agholor down the right sideline, and the wideout went up and snatched it away from cornerback Ahkello Witherspoon for a 44-yard touchdown. That wasn’t all Agholor did, though; he had some nice shorter catches as well and was great gaining additional yards after the reception. As a result, he is now the first Patriot to have 100+ receiving yards in a game since Mac Jones entered NFL last year. The team needs more playmakers on offense, and Agholor came through on Sunday. Tight ends are non-factors: Both Jonnu Smith and Hunter Henry were held without a catch on Sunday, with only four combined targets between the two of them. Henry was one of the most reliable pass catchers for Jones last year, but his blocking was put in question in last week’s game. This is obviously important, but Jones felt confident throwing to Henry last year and you would like to see him get more involved. Smith, meanwhile, can be electric with the ball in his hands but seems to be a guy that needs to be schemed up to get touches, which can be tough on a week-to-week basis. Either way, the duo needs to find a way to be more involved because the offense is better with both of them playing well and creating mismatches especially in the passing game. The offensive line impresses: The Patriots offensive line was a big talking point all week, and it did a great job, keeping Mac Jones upright, and not allowing a single sack to a team that took down Cincinnati Bengals QB Joe Burrow seven times the previous week. Rookie guard Cole Strange looked particularly good, and seems to be coming into his own quickly. The unit was also able to put an exclamation point on the game, when it killed the clock in the late fourth quarter, and ended the game in victory formation. The Steelers punted to the Patriots, and they took over at the 30 yard line with 6:33 to go. New England proceeded to go on a 13-play, 46-yard drive, that featured only one pass thrown. The Patriots simply ran the ball down the home team’s throat, and there was nothing it could do about it. That was a dominant performance, and something that, hopefully, the entire operation can build on moving forward. Patriots vs. Steelers: New England beats Pittsburgh 17-14, improve to 1-1 Instant analysis from Patriots’ 17-14 win over Steelers Offensive line draws positive reviews after Patriots’ win over Steelers Ability to close out win over Steelers a ‘huge confidence booster’ for the Patriots New England has a two-headed monster at running back: The Patriots have a heck of 1-2 punch at running back right now. Both Damien Harris and Rhamondre Stevenson had solid games again, with Harris registering 71 yards and a touchdown and Stevenson going for 47 yards. Both are tough to tackle, and bring explosiveness to the backfield. Without receiving back Ty Montgomery for at least four weeks, New England might be looking for them both to catch more passes out of the backfield. The two have looked good doing that this year, combining to catch three passes for 20 yards on Sunday. Having both Harris and Stevenson playing well is obviously good news for the offense, because it can cycle them in and out of the lineup and keep both fresh throughout the game. All in all, the running attack was very effective in Pittsburgh, and it could be one of the strongest units on the team if the line keeps blocking the way it did. DeVante Parker’s struggles continue: Patriots offseason acquisition DeVante Parker has struggled the first two games of the season. He appeared unsure at times about what he was being asked to do and has only one catch through two games, while Mac Jones has been picked twice when targeting him. Parker was brought in because of his big-play ability and jump-ball prowess, and, so far, he hasn’t shown off either. He is going to need to play significantly better moving forward, and the Patriots are willing to give him every opportunity he can get to build a rapport with Jones. However, I’m starting to wonder if maybe he should actually be playing less than he is right now. Kendrick Bourne is still not playing enough. Speaking of wideout playing time, Kendrick Bourne should be seeing more. Maybe some of Parker’s snaps could go to him, or he could be more involved in multi-receiver sets. No matter how the Patriots do it, when Bourne is on the field he makes plays and has proven himself a reliable target for Mac Jones. However, he was once again the receiver with the least amount of snaps (even being out-snapped by Lil’Jordan Humphrey again). Bourne was one of Jones’ favorite targets down the stretch last year, and the young QB appears to play better when he is on the field. The Patriots need to figure out a way to make that happen and give that connection an opportunity to shine again. Speed and athleticism are showing up on defense: The Patriots made a few moves to try to become faster and more athletic on defense this offseason. That started to show up on Sunday. Linebacker Mack Wilson made a great play in pass coverage, tipping a ball that was eventually picked by cornerback Jalen Mills. That was a play that Patriots linebackers haven not been able to make in years past. The injury bug is biting the Patriots defense: Speaking of the Patriots defense, it had a few players suffer some injuries that bear watching this week. Davon Godchaux, Ja’Whaun Bentley, Jonathan Jones, and Kyle Dugger all left the game at one point because of apparent injuries. Even though Bentley and Godchaux both ended up back in the game, the health of all four will be crucial moving forward given their prominent roles. With all of the speed coming into town next week in the form of the Baltimore Ravens ’ potent offense, the Patriots are going to need all the help they can get. Speaking of whom... A tough test coming up: The Patriots have their home opener next week, and it is going to be a tough one. The Ravens, who lost a heartbreaker to the Miami Dolphins on Sunday, will visit Gillette Stadium and bring one of the most electric offenses in the NFL with them (one that should also be getting J.K. Dobbins back). The Ravens defense played pretty well against the New York Jets last weekend, but they look like they might be able to be exploited a bit; the Patriots better be able to do so, because keeping the Ravens from scoring under 20 points is going to be a tough task. For now, however, let’s focus on the Patriots’ first victory of the season. Even if it wasn’t particularly pretty at all times, a win is a win. There is still a long way to go for this team, but getting in the win column is a step in the right direction.",
-      "pubDate": "2022-09-19 10:00:00",
-      "image_url": null,
-      "source_id": "patspulpit",
-      "country": ["united states of america"],
-      "category": ["sports"],
-      "language": "english"
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Bosch to build $215 million plant in central Mexico - Reuters",
+      "description": "Technology supplier Bosch Ltd <a href=\"https://www.reuters.com/companies/BOSH.NS\" target=\"_blank\">(BOSH.NS)</a> on Wednesday announced plans to construct a 4.3 billion peso ($215 million) plant in the central Mexican state of Queretaro.",
+      "url": "https://www.reuters.com/technology/bosch-build-215-million-plant-central-mexico-2022-09-14/",
+      "urlToImage": "https://www.reuters.com/resizer/6RRK4lxjlo6bK7dOR3v0Q8KisE8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LZZBXOGDGZKHBJTMO2CCAMYKRY.jpg",
+      "publishedAt": "2022-09-14T15:49:00Z",
+      "content": "MEXICO CITY, Sept 14 (Reuters) - Technology supplier Bosch Ltd (BOSH.NS) on Wednesday announced plans to construct a 4.3 billion peso ($215 million) plant in the central Mexican state of Queretaro.\r\n… [+981 chars]"
     },
     {
-      "title": "The Queen’s funeral order of service in full",
-      "link": "https://metro.co.uk/2022/09/19/the-queens-funeral-order-of-service-in-full-17403573/",
-      "keywords": [
-        "UK",
-        "Queen Elizabeth II",
-        "Royal Family",
-        "Westminster Abbey"
-      ],
-      "creator": ["Jordan King"],
-      "video_url": null,
-      "description": "The service will include Bible readings, hymns and the national anthem.",
-      "content": "Some of the world’s most powerful leaders are gathering to say goodbye to Britain’s longest-reigning monarch in a historic ceremony today. The doors to Westminster Abbey opened this morning for the 2,000 people invited to Queen Elizabeth II’s state funeral. Her Majesty’s coffin was removed from Westminster Hall at 10.45am and is currently being carried by state gun carriage to the Abbey. The monarch, and the procession which will follow her coffin, will arrive at the Abbey in time for the funeral service to start at 11am. Here is every detail of what will happen from then until the end of the service just before noon. Music will play as representatives from almost every religion, along with the Churches of Wales, Scotland, Northern Ireland and England, take their place in the Abbey’s nave. All attendees will be asked to stand as the Queen’s coffin arrives and is carried through the church to the sound of the Choir of Westminster singing. Head to Metro.co.uk's Queen Elizabeth II tag page for the latest updates, and sign Metro.co.uk's book of condolence to Her Majesty here. Several Bible verses will be read out before the Dean of Westminster gives the Bidding – a type of prayer. After everyone has prayed, they will all sing The Day Thou Gavest Lord is Ended – one of Britain’s most popular funeral hymns about God’s eternal life and love after death. The congregation will then be invited to sit to listen to the first lesson, read by the secretary-general of the Commonwealth Patricia Scotland KC. The choir will sing before prime minister Liz Truss reads the second lesson, all about the joy promised to Christians in heaven. Everyone will then stand to sing another hymn, The Lord is my Shepherd, I’ll Not Want, before the Archbishop of Canterbury gives the main sermon. The choir will sing again and then the Abbey’s Reverend Mark Birch will lead a praying session, which other church leaders will join in on at different points. People can either stay seated or kneel during this part. The precentor leading the choir will finish off the next song with The Lord’s Prayer, before everyone stands to sing Love Divine, All Loves Excelling – a hymn praising God for eternal love and salvation. While the congregation is still standing, the Archbishop of Canterbury will give the commendation – entrusting the Queen to the love and mercy of God. The choir will sing one last time before a period of silence is kept and the congregation sings the national anthem. There will then be another procession following the Queen’s coffin out of the Abbey to St George’s Chapel at Windsor, where Her Majesty will eventually be laid to rest . A nationwide two-minute silence where a committal service will take place . Not convinced? Find out more »",
-      "pubDate": "2022-09-19 09:52:51",
-      "image_url": "https://metro.co.uk/wp-content/uploads/2022/09/SEC_125985432-2c7b.jpg?quality=90&strip=all",
-      "source_id": "metro",
-      "country": ["united kingdom"],
-      "category": ["top"],
-      "language": "english"
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Editorial",
+      "title": "Thousands chant 'Viva Mexico!' to mark independence - Reuters.com",
+      "description": "Thousands of Mexicans joined President Andres Manuel Lopez Obrador with chants of \"Viva Mexico!\" to mark the anniversary of the country's independence movement from Spain over 210 years ago.",
+      "url": "https://www.reuters.com/video/watch/idOV574516092022RP1",
+      "urlToImage": "https://static.reuters.com/resources/r/?d=20220916&i=OV574516092022RP1&r=OV574516092022RP1&t=2",
+      "publishedAt": "2022-09-16T08:06:47Z",
+      "content": "Posted \r\nThousands of Mexicans joined President Andres Manuel Lopez Obrador with chants of \"Viva Mexico!\" to mark the anniversary of the country's independence movement from Spain over 210 years ago."
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico annual inflation reaches 8.70% in August - Reuters",
+      "description": "Mexican annual inflation rose in August to its highest level in nearly 22 years, official data showed Thursday, rising faster than expected and supporting bets the central bank may continue raising the key interest rate to slow upward spiraling prices.",
+      "url": "https://www.reuters.com/markets/mexico-annual-inflation-reaches-870-august-2022-09-08/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=109",
+      "publishedAt": "2022-09-08T12:01:00Z",
+      "content": "Sept 8 (Reuters) - Mexican annual inflation rose in August to its highest level in nearly 22 years, official data showed Thursday, rising faster than expected and supporting bets the central bank may… [+1918 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Grupo Mexico unit agrees to buy Planigrupo Latam - Reuters.com",
+      "description": "A unit of Mexican mining company Grupo Mexico <a href=\"https://www.reuters.com/companies/GMEXICOB.MX\" target=\"_blank\">(GMEXICOB.MX)</a> has agreed to buy Planigrupo Latam <a href=\"https://www.reuters.com/companies/PLANI.MX\" target=\"_blank\">(PLANI.MX)</a> for …",
+      "url": "https://www.reuters.com/markets/us/grupo-mexico-unit-agrees-buy-planigrupo-latam-2022-09-02/",
+      "urlToImage": "https://www.reuters.com/resizer/tjTLIMpMzUh06rrDECHQHSoReco=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/27EHQZTDQJIWXLPLCKY465LP4U.jpg",
+      "publishedAt": "2022-09-02T21:57:00Z",
+      "content": "MEXICO CITY, Sept 2 (Reuters) - A unit of Mexican mining company Grupo Mexico (GMEXICOB.MX) has agreed to buy Planigrupo Latam (PLANI.MX) for 14.20 pesos per share, the companies said on Friday.\r\nThe… [+1331 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Gulf of Mexico oil driller QuarterNorth explores sale -sources - Reuters",
+      "description": "QuarterNorth Energy is exploring a potential sale which could value the oil and gas producer in the deepwater U.S. Gulf of Mexico at more than $2 billion, including debt, according to people familiar with the matter.",
+      "url": "https://www.reuters.com/markets/deals/gulf-mexico-oil-driller-quarternorth-explores-sale-sources-2022-09-19/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=111",
+      "publishedAt": "2022-09-19T12:16:00Z",
+      "content": "Sept 19 (Reuters) - QuarterNorth Energy is exploring a potential sale which could value the oil and gas producer in the deepwater U.S. Gulf of Mexico at more than $2 billion, including debt, accordin… [+1368 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "German president urges Mexico to stand against Russian invasion - Reuters",
+      "description": "German President Frank-Walter Steinmeier on Tuesday urged the Mexican government to stand with Europe in opposing the Russian invasion of Ukraine, invoking the spirit of one of Mexico's legendary leaders in his appeal.",
+      "url": "https://www.reuters.com/world/german-president-urges-mexico-stand-against-russian-invasion-2022-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/Y2xQIkqf2jaczZrM4Xf09oMy1sk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AJDKPN7VSFI4DB6QH4FZ7XYWGY.jpg",
+      "publishedAt": "2022-09-20T22:45:00Z",
+      "content": "MEXICO CITY, Sept 20 (Reuters) - German President Frank-Walter Steinmeier on Tuesday urged the Mexican government to stand with Europe in opposing the Russian invasion of Ukraine, invoking the spirit… [+1605 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Kris Holt",
+      "title": "National Drive Electric Week wants to spread the gospel of EVs",
+      "description": "National Drive Electric Week is right around the corner. Plug In America, the Electric Vehicle Association, environmental organization Sierra Club and Nissan (one of the main sponsors) are all backing the initiative, which aims to highlight the benefits of ha…",
+      "url": "https://www.engadget.com/national-drive-electric-week-dates-times-locations-203537754.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-11/b106a2e0-4203-11ec-b1e4-dea1aff26005",
+      "publishedAt": "2022-09-16T20:35:37Z",
+      "content": "National Drive Electric Week is right around the corner. Plug In America, the Electric Vehicle Association, environmental organization Sierra Club and Nissan (one of the main sponsors) are all backin… [+746 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Washington mayor declares public emergency over migrant arrivals from Texas, Arizona - Reuters.com",
+      "description": "Washington Mayor Muriel Bowser on Thursday declared a public emergency over buses of migrants sent by Republican governors from the U.S.-Mexico border states of Texas and Arizona.",
+      "url": "https://www.reuters.com/world/us/washington-mayor-declares-public-emergency-over-migrant-arrivals-texas-arizona-2022-09-08/",
+      "urlToImage": "https://www.reuters.com/resizer/P0mOiBojkdzdVkmOaFYqXQsaU_4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/N6GZDAY2RVMGZGJAUVZYNUDD4E.jpg",
+      "publishedAt": "2022-09-08T15:52:00Z",
+      "content": "WASHINGTON, Sept 8 (Reuters) - Washington Mayor Muriel Bowser on Thursday declared a public emergency over buses of migrants sent by Republican governors from the U.S.-Mexico border states of Texas a… [+725 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico monpol may need to become more restrictive yet, cenbanker says - Reuters.com",
+      "description": "The Bank of Mexico may need to continue tightening monetary policy to bring down inflation, said Gerardo Esquivel, a member of the central bank's board.",
+      "url": "https://www.reuters.com/markets/us/mexico-monpol-may-need-become-more-restrictive-yet-cenbanker-says-2022-09-02/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=109",
+      "publishedAt": "2022-09-02T20:10:00Z",
+      "content": "MEXICO CITY, Sept 2 (Reuters) - The Bank of Mexico may need to continue tightening monetary policy to bring down inflation, said Gerardo Esquivel, a member of the central bank's board.\r\nIn an intervi… [+337 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "After risky journey, migrant and his dog say goodbye at U.S. border - Reuters Canada",
+      "description": "Venezuelan migrant Brayan Pinto, 18, and his small fluffy white dog, Brandi, trekked together across several countries and a treacherous tropical jungle to reach the U.S.-Mexico border.",
+      "url": "https://www.reuters.com/world/americas/after-risky-journey-migrant-his-dog-say-goodbye-us-border-2022-09-12/",
+      "urlToImage": "https://www.reuters.com/resizer/qMaliNRMdK5v9a2fIdB-Oag3QAk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3Q7UB7Z4BVK4FHXVWXAAAPQN7E.jpg",
+      "publishedAt": "2022-09-12T22:38:00Z",
+      "content": "CIUDAD JUAREZ, Mexico, Sept 12 (Reuters) - Venezuelan migrant Brayan Pinto, 18, and his small fluffy white dog, Brandi, trekked together across several countries and a treacherous tropical jungle to … [+1208 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico expects EU trade deal to be approved in 2022, minister says - Reuters",
+      "description": "The European Union should sign off on its updated trade agreement with Mexico later this year, Mexican Foreign Minister Marcelo Ebrard said on Friday.",
+      "url": "https://www.reuters.com/business/mexico-expects-eu-trade-deal-be-approved-2022-minister-says-2022-08-26/",
+      "urlToImage": "https://www.reuters.com/resizer/0VYA2s-t_jVMOLhe6epL0Q81WGs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5YSVVYMJT5J4ZMH4EGLAG6LHT4.jpg",
+      "publishedAt": "2022-08-26T23:56:00Z",
+      "content": "MEXICO CITY, Aug 26 (Reuters) - The European Union should sign off on its updated trade agreement with Mexico later this year, Mexican Foreign Minister Marcelo Ebrard said on Friday.\r\nThe EU and Lati… [+668 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Authorities say body found in canal is missing Mexican journalist - Reuters",
+      "description": "The governor of Sinaloa, Mexico, on Saturday said a body found earlier this week was of missing radio announcer Candida Cristal Vazquez, local media reported.",
+      "url": "https://www.reuters.com/world/americas/authorities-say-body-found-canal-is-missing-mexican-journalist-2022-08-27/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108",
+      "publishedAt": "2022-08-27T20:32:00Z",
+      "content": "MEXICO CITY, Aug 27 (Reuters) - The governor of Sinaloa, Mexico, on Saturday said a body found earlier this week was of missing radio announcer Candida Cristal Vazquez, local media reported.\r\nPolice … [+902 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Canada challenges U.S. softwood lumber duties under USMCA trade pact - Reuters",
+      "description": "The Canadian government said on Monday it challenged U.S. softwood lumber duties under the United States-Mexico-Canada Agreement (USMCA), calling the duties \"unwarranted\" and \"unfair.\"",
+      "url": "https://www.reuters.com/world/americas/canada-challenges-us-softwood-lumber-duties-under-usmca-trade-pact-2022-08-29/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108",
+      "publishedAt": "2022-08-29T21:33:00Z",
+      "content": "OTTAWA, Aug 29 (Reuters) - The Canadian government said on Monday it challenged U.S. softwood lumber duties under the United States-Mexico-Canada Agreement (USMCA), calling the duties \"unwarranted\" a… [+527 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico hopes deal possible in U.S. trade dispute before panel -minister - Reuters",
+      "description": "Mexico hopes it can resolve a trade dispute with the United States before the matter reaches an arbitration panel, Foreign Minister Marcelo Ebrard said on Wednesday.",
+      "url": "https://www.reuters.com/markets/us/mexico-hopes-deal-possible-us-trade-dispute-before-panel-minister-2022-08-24/",
+      "urlToImage": "https://www.reuters.com/resizer/40zjL3OxdJjlUIv8ktGmBN7SwY4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RVWDT6XKVJPYVMBNGYNM7YAFU4.jpg",
+      "publishedAt": "2022-08-24T22:30:00Z",
+      "content": "MEXICO CITY, Aug 24 (Reuters) - Mexico hopes it can resolve a trade dispute with the United States before the matter reaches an arbitration panel, Foreign Minister Marcelo Ebrard said on Wednesday.\r\n… [+1136 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "10 killed in Mexico bar shooting in state ravaged by violence - Reuters Canada",
+      "description": "Unidentified gunmen opened fire in a bar in central Mexico, killing 10 people, officials said, in the latest outbreak of violence to buffet the country.",
+      "url": "https://www.reuters.com/world/americas/10-killed-mexico-bar-shooting-state-ravaged-by-violence-2022-09-22/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=111",
+      "publishedAt": "2022-09-22T15:16:00Z",
+      "content": "MEXICO CITY, Sept 22 (Reuters) - Unidentified gunmen opened fire in a bar in central Mexico, killing 10 people, officials said, in the latest outbreak of violence to buffet the country.\r\n\"It appears … [+1292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entrepreneur"
+      },
+      "author": "Gabrielle Bienasz",
+      "title": "These Are the Top Countries Americans Are Moving To, Broken Down By Age Group",
+      "description": "Mexico is a clear favorite across generations, according to data by an international insurance company.",
+      "url": "https://www.entrepreneur.com/business-news/these-are-the-countries-americans-are-moving-to-based-on-age/435772",
+      "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1663788026-VWPicsContributor.jpg",
+      "publishedAt": "2022-09-21T20:55:38Z",
+      "content": "Forgetting is cheap in Mexico, as Kenny Chesney once sang in \"Tequila Loves Me,\" and apparently moving abroad is, too.\r\nVW Pics / Contributor / Getty Images\r\nAccording to data from International Citi… [+3507 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "A 6.8 magnitude earthquake shakes Mexico and leaves 1 dead",
+      "description": "A powerful earthquake with a preliminary magnitude of 6.8 struck Mexico early Thursday, causing buildings to sway and leaving at least one person dead in the nation's capital.",
+      "url": "https://www.npr.org/2022/09/22/1124443278/a-6-8-magnitude-earthquake-shakes-mexico-and-leaves-1-dead",
+      "urlToImage": "https://media.npr.org/assets/img/2022/09/22/ap22265261416313_wide-796c8e5d151028d2268e6b5cfd6e41a9348349ea.jpg?s=1400",
+      "publishedAt": "2022-09-22T08:38:29Z",
+      "content": "People gather outside after an earthquake was felt in Mexico City, Thursday, Sept. 22, 2022.\r\nEduardo Verdugo/AP\r\nMEXICO CITY A powerful earthquake with a preliminary magnitude of 6.8 struck Mexico e… [+1460 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entrepreneur"
+      },
+      "author": "Emily Rella",
+      "title": "'Quit Sending Naked Pictures': Pilot Threatens to Cancel Flight After Passenger AirDrops NSFW Photos to Strangers on Flight",
+      "description": "A Southwest Airlines pilot almost stopped a flight to Mexico after nude photos were being circulated to passengers.",
+      "url": "https://www.entrepreneur.com/article/434470",
+      "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1661963302-shutterstock-606188015.jpg",
+      "publishedAt": "2022-08-31T16:04:00Z",
+      "content": "There are pretty standard rules when preparing to take off stow away large electronics and bags, turn your phone to airplane mode, fasten your seatbelt.\r\nJeramey Lende | Shutterstock\r\nYou'd think \"do… [+2495 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico City mayor narrowly leads ruling party presidential race, poll shows - Reuters Canada",
+      "description": "Mexico City Mayor Claudia Sheinbaum holds a slight advantage over Foreign Minister Marcelo Ebrard in the race to be the ruling party's candidate in the presidential election of 2024, an opinion poll showed on Wednesday.",
+      "url": "https://www.reuters.com/world/americas/mexico-city-mayor-narrowly-leads-ruling-party-presidential-race-poll-shows-2022-08-31/",
+      "urlToImage": "https://www.reuters.com/resizer/KXhLmFFkDYWT-IgGJSFguJ5j04c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CNOHWKP6LBO2DEPZXQTZVNBHUU.jpg",
+      "publishedAt": "2022-08-31T09:11:00Z",
+      "content": "MEXICO CITY, Aug 31 (Reuters) - Mexico City Mayor Claudia Sheinbaum holds a slight advantage over Foreign Minister Marcelo Ebrard in the race to be the ruling party's candidate in the presidential el… [+1671 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Too early to think of ending rate hike cycle in Mexico, cenbanker says - Reuters",
+      "description": "It is \"very, very premature\" to start thinking of ending the current interest rate-hiking cycle in Mexico, one of the Mexican central bank's board members said on Twitter on Monday.",
+      "url": "https://www.reuters.com/markets/us/too-early-think-ending-rate-hike-cycle-mexico-cenbanker-says-2022-08-29/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108",
+      "publishedAt": "2022-08-29T23:33:00Z",
+      "content": "MEXICO CITY, Aug 29 (Reuters) - It is \"very, very premature\" to start thinking of ending the current interest rate-hiking cycle in Mexico, one of the Mexican central bank's board members said on Twit… [+339 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Airlines using Mexico City hub agree to temporary 15% cut in flights - Reuters",
+      "description": "Airlines using the Benito Juarez International Airport in Mexico City have agreed to temporarily reduce flights at the hub from 61 per hour to 52 during peak hours, starting Oct. 31, the country's transportation ministry said on Thursday.",
+      "url": "https://www.reuters.com/business/aerospace-defense/airlines-using-mexico-city-hub-agree-temporary-15-cut-flights-2022-08-26/",
+      "urlToImage": "https://www.reuters.com/resizer/TZjkJKVo35cqJAdP512T_p_rGR0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5XXWQRWXNZMX3DTWJ3VEEW2SLA.jpg",
+      "publishedAt": "2022-08-26T16:32:00Z",
+      "content": "MEXICO CITY, Aug 25 (Reuters) - Airlines using the Benito Juarez International Airport in Mexico City have agreed to temporarily reduce flights at the hub from 61 per hour to 52 during peak hours, st… [+2151 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico City mayor eyes history in bid to be first female president - Reuters.com",
+      "description": "Mexico City Mayor Claudia Sheinbaum, a trained physicist vying to become the country's first female president, is hoping her environmental credentials and success in curbing crime will help set her apart in the race for the top job in 2024.",
+      "url": "https://www.reuters.com/world/americas/mexico-city-mayor-eyes-history-bid-be-first-female-president-2022-09-23/",
+      "urlToImage": "https://www.reuters.com/resizer/KXhLmFFkDYWT-IgGJSFguJ5j04c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CNOHWKP6LBO2DEPZXQTZVNBHUU.jpg",
+      "publishedAt": "2022-09-23T12:07:00Z",
+      "content": "MEXICO CITY, Sept 23 (Reuters) - Mexico City Mayor Claudia Sheinbaum, a trained physicist vying to become the country's first female president, is hoping her environmental credentials and success in … [+3925 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico has released nearly 2700 prisoners early as overall jail population grows - Reuters Canada",
+      "description": "Mexico has released thousands of prisoners during Andres Manuel Lopez Obrador's presidency as part of an effort to free those who have not committed serious crimes or were being held unjustly, authorities said on Thursday.",
+      "url": "https://www.reuters.com/world/americas/mexico-has-released-nearly-2700-prisoners-early-overall-jail-population-grows-2022-09-15/",
+      "urlToImage": "https://www.reuters.com/resizer/Eha-8QHHwa7R4nuEV14VeObCTuo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S24UQSR4LZJR7L4HGHSBGPTFZY.jpg",
+      "publishedAt": "2022-09-15T18:03:00Z",
+      "content": "MEXICO CITY, Sept 15 (Reuters) - Mexico has released thousands of prisoners during Andres Manuel Lopez Obrador's presidency as part of an effort to free those who have not committed serious crimes or… [+2104 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Boon or threat? Mexico City wrestles with influx of remote U.S. workers - Reuters Canada",
+      "description": "In a trendy part of Mexico City, in a park surrounded by hipster coffeeshops and restaurants, stands a figure dressed in white with hands in prayer like a Catholic statuette: the so-called patron saint against gentrification.",
+      "url": "https://www.reuters.com/world/americas/boon-or-threat-mexico-city-wrestles-with-influx-remote-us-workers-2022-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/3JdToVmwrBuefh2kMjVnjw9jo_M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V7OQNM4Z4NPYRLGVZQK5U2VVDE.jpg",
+      "publishedAt": "2022-09-13T11:06:00Z",
+      "content": "MEXICO CITY, Sept 13 (Reuters) - In a trendy part of Mexico City, in a park surrounded by hipster coffeeshops and restaurants, stands a figure dressed in white with hands in prayer like a Catholic st… [+4610 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico lauds U.S. commerce secretary for stance on energy spat - Reuters.com",
+      "description": "Mexican President Andres Manuel Lopez Obrador on Tuesday hailed U.S. Commerce Secretary Gina Raimondo for her attitude in talks this week, saying she gave no indication of wanting to punish Mexico over an energy dispute between the two countries.",
+      "url": "https://www.reuters.com/world/americas/mexico-lauds-us-commerce-secretary-stance-energy-spat-2022-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/DKAVOr9P_KYJdWf5_R656gx4ktY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YR5BUNNFE5MZVAEZRQ32NQT6YI.jpg",
+      "publishedAt": "2022-09-13T15:29:00Z",
+      "content": "MEXICO CITY, Sept 13 (Reuters) - Mexican President Andres Manuel Lopez Obrador on Tuesday hailed U.S. Commerce Secretary Gina Raimondo for her attitude in talks this week, saying she gave no indicati… [+1808 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico creates state-run lithium company, to go live within 6 months - Reuters",
+      "description": "Mexico, which nationalized lithium resources in April, has created a state-run company to mine the metal, President Andres Manuel Lopez Obrador said in a decree issued in the national gazette Tuesday afternoon.",
+      "url": "https://www.reuters.com/legal/litigation/mexico-creates-state-run-lithium-company-go-live-within-6-months-2022-08-24/",
+      "urlToImage": "https://www.reuters.com/resizer/WErG2Bf5tE_Jadcfcy4APqQD2R4=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TBHBSAQPTBNXTINU3XBIQF2R54.jpg",
+      "publishedAt": "2022-08-24T19:34:00Z",
+      "content": "MEXICO CITY, Aug 23 (Reuters) - Mexico, which nationalized lithium resources in April, has created a state-run company to mine the metal, President Andres Manuel Lopez Obrador said in a decree issued… [+1512 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico continues to block Trafigura fuel imports despite regaining permits - Reuters",
+      "description": "Trafigura has been prevented from bringing fuel to Mexico months after the lifting of import restrictions on the global commodities trader, federal court documents showed, underscoring the roadblocks that foreign energy companies continue to face.",
+      "url": "https://www.reuters.com/business/energy/mexico-continues-block-trafigura-fuel-imports-despite-regaining-permits-2022-08-29/",
+      "urlToImage": "https://www.reuters.com/resizer/Kbt-XdBxJQ91qVA-DTciFBANj7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TZJF53E6RRI4LJNUOMKEX4NHNE.jpg",
+      "publishedAt": "2022-08-29T10:13:00Z",
+      "content": "MEXICO CITY, Aug 29 (Reuters) - Trafigura has been prevented from bringing fuel to Mexico months after the lifting of import restrictions on the global commodities trader, federal court documents sho… [+4111 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "'Mosaic of pain': 17 atrocities reported in the news a day in Mexico, study finds - Reuters.com",
+      "description": "An average of 17 atrocities were reported in news outlets in Mexico each day during the first six months of 2022, up 18% from the same period last year, according to a report by non-governmental organization Causa en Comun.",
+      "url": "https://www.reuters.com/world/americas/mosaic-pain-17-atrocities-reported-news-day-mexico-study-finds-2022-09-03/",
+      "urlToImage": "https://www.reuters.com/resizer/zl1rkoSk3_GzvTqxSJTmXD9NPIc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7E2D5IMA3ZPBBEF3GSX3BZAGZI.jpg",
+      "publishedAt": "2022-09-03T03:46:00Z",
+      "content": "MEXICO CITY, Sept 2 (Reuters) - An average of 17 atrocities were reported in news outlets in Mexico each day during the first six months of 2022, up 18% from the same period last year, according to a… [+2144 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico president chides Israel for 'protecting' ex-official accused in missing students case - Reuters",
+      "description": "Mexican President Andres Manuel Lopez Obrador on Wednesday rebuked Israel's government for what he called its protection of a top former official wanted in Mexico on accusations he manipulated a probe into the 2014 disappearance of 43 students.",
+      "url": "https://www.reuters.com/world/mexico-president-chides-israel-protecting-ex-official-accused-missing-students-2022-08-24/",
+      "urlToImage": "https://www.reuters.com/resizer/bZhoBcDq7vEz0Nag49HcNf0tIPI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3VCB2KY4QVNCJNDSIRBFWZRKUY.jpg",
+      "publishedAt": "2022-08-24T16:23:00Z",
+      "content": "MEXICO CITY, Aug 24 (Reuters) - Mexican President Andres Manuel Lopez Obrador on Wednesday rebuked Israel's government for what he called its protection of a top former official wanted in Mexico on a… [+1642 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Pemex's oil processing in Mexico jumps in July, exports edge up - Reuters",
+      "description": "Oil processing at Pemex's (PEMX.UL) six refineries in Mexico increased substantially in July from the previous month, while crude exports rose slightly, according to the state-owned oil company's most recent report.",
+      "url": "https://www.reuters.com/business/energy/pemexs-oil-processing-mexico-jumps-july-exports-edge-up-2022-08-29/",
+      "urlToImage": "https://www.reuters.com/resizer/2cJ5PsQ3VhdRM4D9FZO4285JQfo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZMASFAX4SRJOLOKVBK453KIFKM.jpg",
+      "publishedAt": "2022-08-29T16:21:00Z",
+      "content": "MEXICO CITY, Aug 29 - Oil processing at Pemex's (PEMX.UL) six refineries in Mexico increased substantially in July from the previous month, while crude exports rose slightly, according to the state-o… [+1872 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Violence against women in Mexico rises to over 70%, study finds - Reuters",
+      "description": "Violence against women and girls in Mexico has increased over the last five years, the statistics office said in a survey that found seven in 10 of them reported experiencing some form of violence.",
+      "url": "https://www.reuters.com/world/americas/violence-against-women-mexico-rises-over-70-study-finds-2022-08-31/",
+      "urlToImage": "https://www.reuters.com/resizer/LyxFM1pQbFYE8Uqq1_1ROTunqDk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LK4UO3JCDZNXLK4CX3O3L2NZZM.jpg",
+      "publishedAt": "2022-08-31T11:04:00Z",
+      "content": "MEXICO CITY, Aug 31 (Reuters) - Violence against women and girls in Mexico has increased over the last five years, the statistics office said in a survey that found seven in 10 of them reported exper… [+1998 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "New Mexico man accused of planning Islamic State training center - Reuters",
+      "description": "A New Mexico man was charged with attempting to set up a training center for people wishing to fight for Islamic State, the Department of Justice said on Friday.",
+      "url": "https://www.reuters.com/legal/new-mexico-man-accused-planning-islamic-state-training-center-2022-08-26/",
+      "urlToImage": "https://www.reuters.com/resizer/-WSnR6nb_l8JP4EaaaacV70RKuk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWADDY3BVROBZC4AUX52R33TYI.jpg",
+      "publishedAt": "2022-08-26T22:32:00Z",
+      "content": "Aug 26 (Reuters) - A New Mexico man was charged with attempting to set up a training center for people wishing to fight for Islamic State, the Department of Justice said on Friday.\r\nA federal grand j… [+1611 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Energy dispute not on agenda for U.S.-Mexico talks next week - minister - Reuters",
+      "description": "A U.S. dispute with Mexico over its southern neighbor's energy policies is not on the agenda for bilateral talks between senior government officials next week, Foreign Minister Marcelo Ebrard said on Tuesday.",
+      "url": "https://www.reuters.com/business/energy/energy-dispute-not-agenda-us-mexico-talks-next-week-minister-2022-09-07/",
+      "urlToImage": "https://www.reuters.com/resizer/669aVV8SQJC6nNfATbYKN-c6tsE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ETXWLTD64VNCBHY3NHK7PXOIE4.jpg",
+      "publishedAt": "2022-09-07T01:05:00Z",
+      "content": "MEXICO CITY, Sept 6 (Reuters) - A U.S. dispute with Mexico over its southern neighbor's energy policies is not on the agenda for bilateral talks between senior government officials next week, Foreign… [+1826 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "N.M. federal magistrate judge subjected employees to abuse, probe finds - Reuters",
+      "description": "Federal judges in New Mexico voted not to reappoint a magistrate judge after an internal probe found she created an abusive and hostile work environment by subjecting employees to outbursts, \"derogatory\" statements and frequent threats of being fired.",
+      "url": "https://www.reuters.com/legal/government/nm-federal-magistrate-judge-subjected-employees-abuse-probe-finds-2022-09-15/",
+      "urlToImage": "https://www.reuters.com/resizer/evW4kovAgnLbbfno1Ed3LKMDi88=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SKYL7NY7G5MB3CKU5G7BBNNLQ4.jpg",
+      "publishedAt": "2022-09-15T18:46:00Z",
+      "content": "(Reuters) - Federal judges in New Mexico voted not to reappoint a magistrate judge after an internal probe found she created an abusive and hostile work environment by subjecting employees to outburs… [+2848 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Memes flood social media as anxious Mexicans process eerily timed earthquake - Reuters",
+      "description": "It did not take long for the memes to start in Mexico, offering a needed bit of levity on Monday after a powerful quake left buildings and people shaken on the anniversary of two of the country's most devastating earthquakes.",
+      "url": "https://www.reuters.com/world/americas/memes-flood-social-media-anxious-mexicans-process-eerily-timed-earthquake-2022-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/Pvkz22c42vUxUESWmxE3XwOU59g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NA6XOPA7C5MRZHL5SMRFAKXEMQ.jpg",
+      "publishedAt": "2022-09-20T02:05:00Z",
+      "content": "MEXICO CITY, Sept 19 (Reuters) - It did not take long for the memes to start in Mexico, offering a needed bit of levity on Monday after a powerful quake left buildings and people shaken on the annive… [+2328 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "U.S. providing $200 mln in additional aid to Mexico and Central America, Blinken says - Reuters Canada",
+      "description": "The United States is providing nearly $200 million in additional humanitarian assistance through international organizations and non-government partners in Mexico and Central America, Secretary of State Antony Blinken said on Wednesday.",
+      "url": "https://www.reuters.com/world/americas/us-providing-200-mln-additional-aid-mexico-central-america-blinken-says-2022-09-21/",
+      "urlToImage": "https://www.reuters.com/resizer/LCcg1athMh2_nr1mxp372N9VL1U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PNWPM2EKIFJDHG43WRYEPRUDBE.jpg",
+      "publishedAt": "2022-09-21T19:26:00Z",
+      "content": "WASHINGTON, Sept 21 (Reuters) - The United States is providing nearly $200 million in additional humanitarian assistance through international organizations and non-government partners in Mexico and … [+586 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Citigroup expects sale or IPO of Mexico consumer business next year - Reuters.com",
+      "description": "Citigroup Inc <a href=\"https://www.reuters.com/companies/C.N\" target=\"_blank\">(C.N)</a> expects to divest its Mexican consumer business via a sale or initial public offering that could happen next year, its chief financial officer said on Tuesday.",
+      "url": "https://www.reuters.com/markets/us/citigroup-expects-sale-or-ipo-mexico-consumer-business-next-year-2022-09-14/",
+      "urlToImage": "https://www.reuters.com/resizer/A-lXna92m72ZXjkaaAjdtjNM0i4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4WGRSRFHZBNVBPEBRT3VEOCOSU.jpg",
+      "publishedAt": "2022-09-14T01:13:00Z",
+      "content": "NEW YORK, Sept 13 (Reuters) - Citigroup Inc (C.N) expects to divest its Mexican consumer business via a sale or initial public offering that could happen next year, its chief financial officer said o… [+1207 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico to extend army's street presence until 2029 to tackle rampant violence - Reuters Canada",
+      "description": "Mexico's lower house of Congress on Wednesday voted to keep the army on the country's streets for five more years, raising fears about the president's efforts to militarize public security.",
+      "url": "https://www.reuters.com/world/americas/mexico-extend-armys-street-presence-until-2029-tackle-rampant-violence-2022-09-14/",
+      "urlToImage": "https://www.reuters.com/resizer/QNpwR1jXhbBo_dvdC-jNGJl1SjA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LLPMID2WU5IADFJZVOWBDQL7UA.jpg",
+      "publishedAt": "2022-09-14T23:58:00Z",
+      "content": "MEXICO CITY, Sept 14 (Reuters) - Mexico's lower house of Congress on Wednesday voted to keep the army on the country's streets for five more years, raising fears about the president's efforts to mili… [+2228 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico cenbank to evaluate magnitude of rate hikes based on prevailing conditions, minutes show - Reuters",
+      "description": "Minutes from Mexico's central bank Aug. 11 monetary policy meeting published Thursday underscored the possibility of interest rate hikes at future meetings at to-be-determined magnitudes.",
+      "url": "https://www.reuters.com/markets/currencies/mexico-cenbank-evaluate-magnitude-rate-hikes-based-prevailing-conditions-minutes-2022-08-25/",
+      "urlToImage": "https://www.reuters.com/resizer/vBDEx0-n34K8BM8che72On-cyzw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WVPRLCFHZJL2XOGNCDNCCUCBGM.jpg",
+      "publishedAt": "2022-08-25T15:04:00Z",
+      "content": "MEXICO CITY, Aug 25 (Reuters) - Minutes from Mexico's central bank Aug. 11 monetary policy meeting published Thursday underscored the possibility of interest rate hikes at future meetings at to-be-de… [+1286 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Brazil's Bradesco buys Ictineo to create digital bank in Mexico - Reuters",
+      "description": "Brazilian lender Banco Bradesco SA <a href=\"https://www.reuters.com/companies/BBDC4.SA\" target=\"_blank\">(BBDC4.SA)</a> said on Thursday its subsidiary Bradescard has agreed to acquire Mexico's Ictineo Plataforma SA in a bid to offer digital accounts in Latin …",
+      "url": "https://www.reuters.com/markets/deals/brazils-bradesco-buys-ictineo-create-digital-bank-mexico-2022-08-25/",
+      "urlToImage": "https://www.reuters.com/resizer/nyv5l7jBbc1a4fSh4LNB-jLaUmg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RDXRIBP4QFKIZJMQ75UY2WMTJM.jpg",
+      "publishedAt": "2022-08-25T14:11:00Z",
+      "content": "SAO PAULO, Aug 25 (Reuters) - Brazilian lender Banco Bradesco SA (BBDC4.SA) said on Thursday its subsidiary Bradescard has agreed to acquire Mexico's Ictineo Plataforma SA in a bid to offer digital a… [+1347 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico invites relatives of Assange, Chavez, Guevara to Independence Day - Reuters",
+      "description": "Mexican President Andres Manuel Lopez Obrador said on Wednesday he had invited relatives of Julian Assange, Che Guevara and Hugo Chavez to attend the country's independence day celebrations next week.",
+      "url": "https://www.reuters.com/world/americas/mexico-invites-relatives-assange-chavez-guevara-independence-day-2022-09-07/",
+      "urlToImage": "https://www.reuters.com/resizer/LIXdm1nrAmKYyENjKE3K93rYIuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SJPRSBUIFFJDFAGB444T7OJZMM.jpg",
+      "publishedAt": "2022-09-07T15:34:00Z",
+      "content": "MEXICO CITY, Sept 7 (Reuters) - Mexican President Andres Manuel Lopez Obrador said on Wednesday he had invited relatives of Julian Assange, Che Guevara and Hugo Chavez to attend the country's indepen… [+1599 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "W&T Offshore to refinance debt, pursue new Gulf of Mexico deals -CEO - Reuters",
+      "description": "Oil and gas producer W&T Offshore <a href=\"https://www.reuters.com/companies/WTI.N\" target=\"_blank\">(WTI.N)</a> aims to refinance notes due in late 2023 using some of the proceeds from closing profitable hedges, Chief Executive Tracy Krohn said on Wednesday.",
+      "url": "https://www.reuters.com/business/energy/wt-offshore-refinance-debt-pursue-new-gulf-mexico-deals-ceo-2022-09-07/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=109",
+      "publishedAt": "2022-09-07T20:55:00Z",
+      "content": "Sept 7 (Reuters) - Oil and gas producer W&amp;T Offshore (WTI.N) aims to refinance notes due in late 2023 using some of the proceeds from closing profitable hedges, Chief Executive Tracy Krohn said o… [+706 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico abandons hope to rescue miners as authorities plan to recover bodies - Reuters.com",
+      "description": "Mexican authorities on Monday outlined an 11-month plan to search for and recover the bodies of 10 coal miners trapped underground a month ago, a quiet admission that they are giving up on ambitions of rescuing the men alive.",
+      "url": "https://www.reuters.com/world/americas/mexico-abandons-hope-rescue-miners-authorities-plan-recover-bodies-2022-09-06/",
+      "urlToImage": "https://www.reuters.com/resizer/aRvEOtq4aMOAycgI-oAtiAzd5bQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C2NLOM7PKVJOJJIUKAFR6JDDCM.jpg",
+      "publishedAt": "2022-09-06T02:31:00Z",
+      "content": "MEXICO CITY, Sept 5 (Reuters) - Mexican authorities on Monday outlined an 11-month plan to search for and recover the bodies of 10 coal miners trapped underground a month ago, a quiet admission that … [+1929 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Amazon Web Services Mexico to open 'local zone' in Q1 2023 - Reuters",
+      "description": "Amazon Web Services Mexico, a unit of Amazon.com Inc<a href=\"https://www.reuters.com/companies/AMZN.O\" target=\"_blank\">(AMZN.O)</a>, will open a \"local zone\" in the first quarter of 2023 to boost bandwidth for its clients, Country Director Luis Velasco told R…",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-web-services-mexico-open-local-zone-q1-2023-2022-09-21/",
+      "urlToImage": "https://www.reuters.com/resizer/PTEucWwM98NgR7X_f4fGksRga94=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CWQTDDTXR5KHHBY37UEPTLUZ24.jpg",
+      "publishedAt": "2022-09-21T19:13:00Z",
+      "content": "MEXICO CITY, Sept 21 (Reuters) - Amazon Web Services Mexico, a unit of Amazon.com Inc(AMZN.O), will open a \"local zone\" in the first quarter of 2023 to boost bandwidth for its clients, Country Direct… [+446 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico says bankrupt airline Interjet owes $1.5 bln in tax - Reuters",
+      "description": "Mexican airline Interjet, which was declared bankrupt by a judge last week, owes around $1.5 billion in back taxes, the head of Mexico's tax administration service said Tuesday.",
+      "url": "https://www.reuters.com/business/aerospace-defense/mexico-says-bankrupt-airline-interjet-owes-15-bln-tax-2022-09-07/",
+      "urlToImage": "https://www.reuters.com/resizer/rs64vUafW4HkVl09Sw5YCDNl0hU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/II6JTTLA7FOW5DOOMSMVWDSXSA.jpg",
+      "publishedAt": "2022-09-07T00:27:00Z",
+      "content": "MEXICO CITY, Sept 6 (Reuters) - Mexican airline Interjet, which was declared bankrupt by a judge last week, owes around $1.5 billion in back taxes, the head of Mexico's tax administration service sai… [+1174 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "EXCLUSIVE Mexico state utility bought coal from uninspected mines, including fatal site -records - Reuters Canada",
+      "description": "Mexico's state-owned power utility has been buying coal from new mines that have not yet been visited by labor inspectors, according to a Reuters analysis of coal contracts and inspection records, including the mine where 10 people died last month after flood…",
+      "url": "https://www.reuters.com/world/americas/exclusive-mexico-state-utility-bought-coal-uninspected-mines-including-fatal-2022-09-07/",
+      "urlToImage": "https://www.reuters.com/resizer/iD5Bvr9HRStV4svuVrqWB7UuToM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KRTQMBJOJBMKPLQIGL6Y47NB6Q.jpg",
+      "publishedAt": "2022-09-07T20:52:00Z",
+      "content": "OAXACA CITY, Mexico, Sept 7 (Reuters) - Mexico's state-owned power utility has been buying coal from new mines that have not yet been visited by labor inspectors, according to a Reuters analysis of c… [+4528 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "EXCLUSIVE Mexico budget sees stronger growth, lower inflation in 2023 -draft - Reuters",
+      "description": "Mexican economic growth should accelerate in 2023 to around 3.0% from some 2.4% this year as inflation cools markedly and oil output picks up, according to finance ministry draft budget forecasts seen by Reuters on Wednesday.",
+      "url": "https://www.reuters.com/markets/emerging/exclusive-mexico-budget-sees-stronger-growth-lower-inflation-2023-draft-2022-09-07/",
+      "urlToImage": "https://www.reuters.com/resizer/SR6iCWl1-BDaaqog7oSwbS5vLfU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GLQDG55ZYJIMPLONYLSEXBFBZE.jpg",
+      "publishedAt": "2022-09-07T21:18:00Z",
+      "content": "MEXICO CITY, Sept 7 (Reuters) - Mexican economic growth should accelerate in 2023 to around 3.0% from some 2.4% this year as inflation cools markedly and oil output picks up, according to finance min… [+2349 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "EXCLUSIVE Scientists detect second 'vast' methane leak at Pemex oil field in Mexico - Reuters.com",
+      "description": "Satellites recorded another large methane leak at an offshore platform belonging to Mexico's Pemex in August, according to exclusive data shared with Reuters, even as pressure mounts on the state oil company to reduce these emissions.",
+      "url": "https://www.reuters.com/business/environment/exclusive-scientists-detect-second-vast-methane-leak-pemex-oil-field-mexico-2022-09-02/",
+      "urlToImage": "https://www.reuters.com/resizer/RgdUenT3CxPOcJEK_sBN93wc3HE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E6E2YE4A7FOWXPFLFX7XTOPADA.jpg",
+      "publishedAt": "2022-09-02T17:05:00Z",
+      "content": "MEXICO CITY, Sept 2 (Reuters) - Satellites recorded another large methane leak at an offshore platform belonging to Mexico's Pemex in August, according to exclusive data shared with Reuters, even as … [+4282 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico inflation would have hit 14% without fuel subsidy-president - Reuters",
+      "description": "Mexican President Andres Manuel Lopez Obrador said on Tuesday that inflation in the country would have reached 14% without government subsidies to keep down fuel prices.",
+      "url": "https://www.reuters.com/markets/mexico-inflation-would-have-hit-14-without-fuel-subsidy-president-2022-08-30/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108",
+      "publishedAt": "2022-08-30T13:55:00Z",
+      "content": "MEXICO CITY, Aug 30 (Reuters) - Mexican President Andres Manuel Lopez Obrador said on Tuesday that inflation in the country would have reached 14% without government subsidies to keep down fuel price… [+587 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico declares Otomi site first ancient monument in a decade - Reuters Canada",
+      "description": "An ancient Mexican site more than 1,000 years old has been declared the country's first archaeological zone in a decade, antiquities institute INAH announced on Tuesday, despite several years of steep budget cuts for archeological research.",
+      "url": "https://www.reuters.com/world/americas/mexico-declares-otomi-site-first-ancient-monument-decade-2022-09-21/",
+      "urlToImage": "https://www.reuters.com/resizer/IK6rEkk9pimN_U1ClFw3vLcc9mM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3C5EJOBS4BMCVBHLUJG6FNQFH4.jpg",
+      "publishedAt": "2022-09-21T01:16:00Z",
+      "content": "MEXICO CITY, Sept 20 (Reuters) - An ancient Mexican site more than 1,000 years old has been declared the country's first archaeological zone in a decade, antiquities institute INAH announced on Tuesd… [+2210 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "ydzhanova@businessinsider.com (Yelena Dzhanova)",
+      "title": "Steve Bannon said being arrested on money laundering and conspiracy charges was 'one of the best days of my life'",
+      "description": "Prosecutors alleged Bannon had conspired to commit fraud through a sham crowdfunded charity that donors thought would help build a US-Mexico border wall.",
+      "url": "https://www.businessinsider.com/steve-bannon-said-arrest-one-of-best-days-of-life-2022-9",
+      "urlToImage": "https://i.insider.com/631c7f5589d2b300189482e7?width=1200&format=jpeg",
+      "publishedAt": "2022-09-10T13:16:22Z",
+      "content": "Steve Bannon, who was arrested earlier this week in connection with a scheme to build a border wall on the US-Mexico border, said the experience of being handcuffed marked one of his favorite days. \r… [+2475 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "rbarber@businessinsider.com (C. Ryan Barber)",
+      "title": "A judge removed Cowboys for Trump founder Couy Griffin from elected office over his role in the Capitol attack",
+      "description": "A New Mexico judge declared the Capitol attack an insurrection and invokved a constitutional clause to remove a rioter from a county commission seat.",
+      "url": "https://www.businessinsider.com/judge-removes-convicted-capitol-rioter-new-mexico-county-elected-office-2022-9",
+      "urlToImage": "https://i.insider.com/63177e79023509001aecf5ce?width=1200&format=jpeg",
+      "publishedAt": "2022-09-06T17:21:21Z",
+      "content": "A New Mexico state judge on Thursday ordered convicted Capitol rioter Couy Griffin to be removed from his county commissioner seat, ruling that the Cowboys for Trump founder's involvement in the Janu… [+3686 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "stabahriti@insider.com (Sam Tabahriti)",
+      "title": "A man charged in the assault of a flight attendant on an American Airlines plane had to be restrained by fellow passengers and cuffed to a seat",
+      "description": "Alexander Tung Cuu Le was arrested and later charged following the incident on a flight from Mexico to Los Angeles on Wednesday.",
+      "url": "https://www.businessinsider.com/man-charged-over-flight-attendant-assault-restrained-by-fellow-passengers-2022-9",
+      "urlToImage": "https://i.insider.com/632ed8dc329bac00182f164c?width=1200&format=jpeg",
+      "publishedAt": "2022-09-24T16:01:12Z",
+      "content": "Passengers on an American Airlines plane helped cabin crew restrain a man after he allegedly punched a flight attendant in the back of the head on Wednesday, officials said.\r\nA Department of Justice … [+2284 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "COVAX to send Mexico 10 mln COVID shots by Sept. 30, says official - Reuters",
+      "description": "The United Nations-backed COVAX vaccine program will send 10 million doses of Pfizer <a href=\"https://www.reuters.com/companies/PFE.N\" target=\"_blank\">(PFE.N)</a>/BioNTech <a href=\"https://www.reuters.com/companies/22UAy.DE\" target=\"_blank\">(22UAy.DE)</a> COV…",
+      "url": "https://www.reuters.com/world/americas/covax-send-mexico-10-mln-covid-shots-by-sept-30-says-official-2022-08-30/",
+      "urlToImage": "https://www.reuters.com/resizer/SGr5kQP56kTirUyU1GOIruqsH0o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3UAASVJG4FL3XADK4J46QRCMJM.jpg",
+      "publishedAt": "2022-08-30T13:10:00Z",
+      "content": "MEXICO CITY, Aug 30 (Reuters) - The United Nations-backed COVAX vaccine program will send 10 million doses of Pfizer (PFE.N)/BioNTech (22UAy.DE) COVID-19 shots for children to Mexico by the end of Se… [+1404 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico factories contract again in August, bracing for difficulties ahead - Reuters.com",
+      "description": "Mexico's manufacturing sector contracted for a second consecutive month in August as weaker demand conditions, inflation and input shortages hindered growth for factories in Latin America's second largest economy, a survey showed on Thursday.",
+      "url": "https://www.reuters.com/world/americas/mexico-factories-contract-again-august-bracing-difficulties-ahead-2022-09-01/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=109",
+      "publishedAt": "2022-09-01T14:51:00Z",
+      "content": "MEXICO CITY, Sept 1 (Reuters) - Mexico's manufacturing sector contracted for a second consecutive month in August as weaker demand conditions, inflation and input shortages hindered growth for factor… [+2113 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "New Mexico judge removes county commissioner from office over Jan. 6 involvement - Reuters",
+      "description": "A New Mexico judge on Tuesday removed a county commissioner from his post and barred him from ever holding political office again, ruling that the Republican was engaged in an insurrection during the Jan. 6, 2021, riot at the U.S. Capitol.",
+      "url": "https://www.reuters.com/world/us/new-mexico-judge-removes-county-commissioner-office-over-jan-6-involvement-2022-09-06/",
+      "urlToImage": "https://www.reuters.com/resizer/unFmEAsDC-nViquAVKK_IPqVxQo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EEHLML253ZOXXOBUIABNNDJM4Q.jpg",
+      "publishedAt": "2022-09-06T18:55:00Z",
+      "content": "Sept 6 (Reuters) - A New Mexico judge on Tuesday removed a county commissioner from his post and barred him from ever holding political office again, ruling that the Republican was engaged in an insu… [+2564 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Pharmacy operators Walmart, Walgreens, Kroger begin opioid trial in New Mexico - Reuters",
+      "description": "U.S. pharmacy operators Walgreens Boots Alliance <a href=\"https://www.reuters.com/companies/WBA.O\" target=\"_blank\">(WBA.O)</a>, Walmart Inc <a href=\"https://www.reuters.com/companies/WMT.N\" target=\"_blank\">(WMT.N)</a> and Kroger Co <a href=\"https://www.reuter…",
+      "url": "https://www.reuters.com/legal/pharmacy-operators-walmart-walgreens-kroger-begin-opioid-trial-new-mexico-2022-09-06/",
+      "urlToImage": "https://www.reuters.com/resizer/dFrPjhse0cKXGxMM9ZLipZGdH8I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/477J3FCIANPJTMUMCUMBNYZUEA.jpg",
+      "publishedAt": "2022-09-06T21:41:00Z",
+      "content": "Sept 6 (Reuters) - U.S. pharmacy operators Walgreens Boots Alliance (WBA.O), Walmart Inc (WMT.N) and Kroger Co (KR.N) on Tuesday faced off against the state of New Mexico in the latest trial over the… [+2448 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Hershey to expand Mexico plant with $90 mln investment, state says - Reuters",
+      "description": "Candy maker Hershey Co <a href=\"https://www.reuters.com/companies/HSY.N\" target=\"_blank\">(HSY.N)</a> will spend $90 million to open two new production lines in a Mexican plant in the northern border state of Nuevo Leon, the state said in a statement Thursday.",
+      "url": "https://www.reuters.com/business/retail-consumer/hershey-expand-mexico-plant-with-90-mln-investment-state-says-2022-09-09/",
+      "urlToImage": "https://www.reuters.com/resizer/vOEzlrCZ1pu6HVRQfad2sSk8Bik=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TAEWJQV52BJO7J4FSOAVSE6EQY.jpg",
+      "publishedAt": "2022-09-09T02:26:00Z",
+      "content": "MEXICO CITY, Sept 8 (Reuters) - Candy maker Hershey Co (HSY.N) will spend $90 million to open two new production lines in a Mexican plant in the northern border state of Nuevo Leon, the state said in… [+777 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico government focused on sustainable public debt in 2023 budget - Reuters.com",
+      "description": "Mexican economic growth is expected to accelerate in 2023 to around 3% from some 2.4% this year as inflation cools, the federal government's official 2023 budget document showed on Thursday.",
+      "url": "https://www.reuters.com/markets/us/mexico-government-focused-sustainable-public-debt-2023-budget-2022-09-08/",
+      "urlToImage": "https://www.reuters.com/resizer/Z7LRkxUamVZWR3gsDhIJK5o8AYU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/J25DD3HUQNNZBCL5IM7DJZ46AI.jpg",
+      "publishedAt": "2022-09-08T23:37:00Z",
+      "content": "MEXICO CITY, Sept 8 (Reuters) - Mexican economic growth is expected to accelerate in 2023 to around 3% from some 2.4% this year as inflation cools, the federal government's official 2023 budget docum… [+1351 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexican carrier Aeromexico expects longer flight cuts from Mexico City - Reuters",
+      "description": "Mexican airline Aeromexico expects flight restrictions out of the capital's main airport to drag out longer than planned due to repairs, the carrier's chief executive told press on Wednesday.",
+      "url": "https://www.reuters.com/business/aerospace-defense/mexican-carrier-aeromexico-expects-longer-flight-cuts-mexico-city-2022-09-14/",
+      "urlToImage": "https://www.reuters.com/resizer/diAery23NgHjK7bPtaJkcUGSPjQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NMHTMUHQA5KVJE4CMHPR6MC35U.jpg",
+      "publishedAt": "2022-09-14T22:07:00Z",
+      "content": "MEXICO CITY, Sept 14 (Reuters) - Mexican airline Aeromexico expects flight restrictions out of the capital's main airport to drag out longer than planned due to repairs, the carrier's chief executive… [+1758 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico sues former state power utility executives over Texas gas deal - Reuters",
+      "description": "Mexico's state-run power utility on Wednesday filed a breach of contract lawsuit in a Texas state court against former executives of a U.S. arm, alleging they improperly awarded a lucrative gas supply deal.",
+      "url": "https://www.reuters.com/markets/commodities/mexico-sues-former-state-power-utility-executives-over-texas-gas-deal-2022-09-21/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=111",
+      "publishedAt": "2022-09-21T20:29:00Z",
+      "content": "HOUSTON, Sept 21 (Reuters) - Mexico's state-run power utility on Wednesday filed a breach of contract lawsuit in a Texas state court against former executives of a U.S. arm, alleging they improperly … [+1006 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Credito Real's foreign bondholders weighing legal action in Mexico -sources - Reuters",
+      "description": "International bondholders are considering taking legal action in Mexico to recoup losses from troubled non-bank lender Credito Real <a href=\"https://www.reuters.com/companies/CREAL.MX\" target=\"_blank\">(CREAL.MX)</a>, four sources have told Reuters, after bank…",
+      "url": "https://www.reuters.com/markets/rates-bonds/credito-reals-foreign-bondholders-weighing-legal-action-mexico-sources-2022-09-21/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=111",
+      "publishedAt": "2022-09-21T23:34:00Z",
+      "content": "MEXICO CITY, Sept 21 (Reuters) - International bondholders are considering taking legal action in Mexico to recoup losses from troubled non-bank lender Credito Real (CREAL.MX), four sources have told… [+3930 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Sony makes the PS5 lighter just as the price goes up",
+      "description": "Sony is reducing the weight of its PS5 disc and digital consoles. New models have appeared in Australia, just as Sony hikes the prices of its PS5 consoles in most countries.",
+      "url": "https://www.theverge.com/2022/8/30/23328484/sony-playstation-5-lighter-model-australia",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/pWlaPWrwg2JNubdWBniEK_GfmYo=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22015298/vpavic_4278_20201030_0120.jpg",
+      "publishedAt": "2022-08-30T10:18:00Z",
+      "content": "New PS5 models have appeared in Australia\r\nPhoto by Vjeran Pavic / The Verge\r\nSony has once again quietly launched a revised PS5 model thats more lightweight. Press Start, an Australian-based gaming … [+1280 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "EXCLUSIVE Biden urges Mexico to take migrants under COVID expulsion order he promised to end - Reuters Canada",
+      "description": "As border crossings have soared to record highs, U.S. President Joe Biden's administration is quietly pressing Mexico to accept more migrants from Cuba, Nicaragua and Venezuela under a COVID-19 expulsion order that the White House has publicly sought to end, …",
+      "url": "https://www.reuters.com/world/americas/exclusive-biden-urges-mexico-take-migrants-under-covid-expulsion-order-he-2022-09-14/",
+      "urlToImage": "https://www.reuters.com/resizer/bAi_VWkM8_n49orZuzylnGEMuAU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S3E622H2H5JBHBEESYRQBDQQ3A.jpg",
+      "publishedAt": "2022-09-14T19:58:00Z",
+      "content": "WASHINGTON/MEXICO CITY, Sept 13 (Reuters) - As border crossings have soared to record highs, U.S. President Joe Biden's administration is quietly pressing Mexico to accept more migrants from Cuba, Ni… [+5833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Milton Guevara",
+      "title": "'From haram to halal': How a bar became a shelter for Muslim migrants in Mexico",
+      "description": "A new shelter in Tijuana, Mexico, has become a beacon for Muslim migrants. For the first time, they have a dedicated space where they can practice their faith while searching for a better life beyond.",
+      "url": "https://www.npr.org/2022/08/26/1119231588/muslim-islam-mexico-migrant-refugees-tijuana",
+      "urlToImage": "https://media.npr.org/assets/img/2022/08/25/tsj_13_wide-df85e3e7753cbbfeea1465f02f116522c9f54913.jpg?s=1400",
+      "publishedAt": "2022-08-26T09:00:54Z",
+      "content": "Sonia García, president of the Latina Muslim Foundation, plays with a cat at the Assabil shelter for Muslim migrants in Tijuana.\r\nToya Sarno Jordan\r\nTIJUANA, Mexico Six miles from the U.S.-Mexico bor… [+3725 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Andrea Bernstein",
+      "title": "Steve Bannon faces fraud charges in New York over the We Build the Wall charity",
+      "description": "New York state is charging ex-Trump White House adviser Steve Bannon with fraud related to fundraising to build a U.S.-Mexico border wall. Bannon is accused of skimming money for personal use.",
+      "url": "https://www.npr.org/2022/09/07/1121447226/steve-bannon-fraud-charges",
+      "urlToImage": "https://media.npr.org/assets/img/2022/09/07/gettyimages-1409767899_wide-242c3073e14c799f3fa04e09c9c389fcc0f32614.jpg?s=1400",
+      "publishedAt": "2022-09-07T12:28:40Z",
+      "content": "Steve Bannon speaks to the media as his lawyer Matthew Evan Corcoran listens after his trial for contempt of Congress began at the U.S. District Courthouse on July 19 in Washington, D.C.\r\nTasos Katop… [+404 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Ashley Lopez",
+      "title": "A New Mexico judge cites insurrection in barring a county commissioner from office",
+      "description": "Otero County's Couy Griffin, who was convicted of entering a restricted area during the Jan. 6 Capitol riot, must be removed from office for his involvement in an insurrection, a judge ruled.",
+      "url": "https://www.npr.org/2022/09/06/1121307430/couy-griffin-otero-county-insurrection-fourteenth-amendment",
+      "urlToImage": "https://media.npr.org/assets/img/2022/09/06/ap22168736715432_wide-b4aefbc3b5202c82ca60b62d31726579886d877c.jpg?s=1400",
+      "publishedAt": "2022-09-06T18:29:02Z",
+      "content": "Couy Griffin, a county commissioner in Otero County, New Mexico, speaks on June 17 outside federal court in Washington, D.C., where he was convicted of entering a restricted area during the Jan. 6 ri… [+4553 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "A 7.6 magnitude earthquake shakes Mexico on the anniversary of two previous quakes",
+      "description": "The earthquake shook Mexico's central Pacific coast on Monday, killing at least one person and setting off a seismic alarm in the rattled capital on the anniversary of two earlier devastating quakes.",
+      "url": "https://www.npr.org/2022/09/19/1123941244/mexico-earthquake-michoacan-colima-damage",
+      "urlToImage": "https://media.npr.org/assets/img/2022/09/19/ap22262686618848_wide-9052b8843766bbff6eeac0dcf36ca3d2f63942cb.jpg?s=1400",
+      "publishedAt": "2022-09-19T20:52:29Z",
+      "content": "People gather outside after a magnitude 7.6 earthquake was felt in Mexico City on Monday, Sept. 19. The quake hit at 1:05 p.m. local time, according to the U.S. Geologic Survey, which said the quake … [+3462 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Monkeypox apathy will 'condemn people to suffer,' Latin American activists say - Reuters Canada",
+      "description": "Gay rights activists from across Latin America have called for the region's governments to take firm steps to prevent the spread of monkeypox, saying a lack of will to provide vaccines and diagnose cases is hurting the region's gay and bisexual men.",
+      "url": "https://www.reuters.com/world/americas/monkeypox-apathy-will-condemn-people-suffer-latin-american-activists-say-2022-09-01/",
+      "urlToImage": "https://www.reuters.com/resizer/guEnN5Y-RjhpOg0eJvj4jpFgH-o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/H7HALY4CDRI4FH574HLR3FLTZA.jpg",
+      "publishedAt": "2022-09-01T18:39:00Z",
+      "content": "MEXICO CITY, Sept 1 (Reuters) - Gay rights activists from across Latin America have called for the region's governments to take firm steps to prevent the spread of monkeypox, saying a lack of will to… [+2538 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "U.S. rejects Mexican union petition for labor probe at BBB Industries - Reuters.com",
+      "description": "U.S. labor officials have turned down a Mexican union's request for a probe into alleged worker rights abuses at BBB Industries in northern Mexico under the terms of a regional trade pact, the U.S. Trade Representative (USTR) office said on Thursday.",
+      "url": "https://www.reuters.com/world/americas/us-rejects-mexican-union-petition-labor-probe-bbb-industries-2022-09-01/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=109",
+      "publishedAt": "2022-09-01T22:08:00Z",
+      "content": "MEXICO CITY, Sept 1 (Reuters) - U.S. labor officials have turned down a Mexican union's request for a probe into alleged worker rights abuses at BBB Industries in northern Mexico under the terms of a… [+1626 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexican airline Volaris fires pilot who recorded near-crash - Reuters",
+      "description": "Mexican airline Volaris <a href=\"https://www.reuters.com/companies/VOLARA.MX\" target=\"_blank\">(VOLARA.MX)</a> fired a pilot who filmed two of the carrier's planes nearly crashing at Mexico City's international airport in May, as the pilot broke airline rules …",
+      "url": "https://www.reuters.com/business/aerospace-defense/mexican-airline-volaris-fires-pilot-who-recorded-near-crash-2022-08-26/",
+      "urlToImage": "https://www.reuters.com/resizer/PoaI0vfeQ_QMLh-D4kggGJdIoQY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F7XRYSWPTBKIXJB3WYUAUZTZBE.jpg",
+      "publishedAt": "2022-08-26T21:37:00Z",
+      "content": "MEXICO CITY, Aug 26 (Reuters) - Mexican airline Volaris (VOLARA.MX) fired a pilot who filmed two of the carrier's planes nearly crashing at Mexico City's international airport in May, as the pilot br… [+1763 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Smugglers put migrants in suitcases, empty water tanks, U.S. prosecutors allege - Reuters.com",
+      "description": "U.S. authorities unveiled indictments on Tuesday of a lucrative human smuggling operation that allegedly included moving migrants in suitcases and water tanks from the U.S.-Mexico border, as the Biden administration cracks down on groups fueling a record numb…",
+      "url": "https://www.reuters.com/world/us/smugglers-put-migrants-suitcases-empty-water-tanks-us-prosecutors-allege-2022-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/IGIwjtsqCz0UzEsic0dkqJcw9Wg=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HRWOQZICXFONPLOGWZHYLCQCKI.jpg",
+      "publishedAt": "2022-09-13T20:44:00Z",
+      "content": "WASHINGTON, Sept 13 (Reuters) - U.S. authorities unveiled indictments on Tuesday of a lucrative human smuggling operation that allegedly included moving migrants in suitcases and water tanks from the… [+2131 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Relatives say reject Mexico's 6-11 month plan to find trapped miners - Reuters",
+      "description": "Family members of 10 miners who have been trapped in a flooded coal mine in northern Mexico for three weeks said on Thursday they rejected a government plan to find the miners that they said officials described as lasting from six to 11 months.",
+      "url": "https://www.reuters.com/world/americas/relatives-say-reject-mexicos-6-11-month-plan-find-trapped-miners-2022-08-25/",
+      "urlToImage": "https://www.reuters.com/resizer/mfJGkveF__RpIJaZQS_DvumFiIE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GOSCZPJ2VRJCDBIRYKNPXEA3CQ.jpg",
+      "publishedAt": "2022-08-25T19:58:00Z",
+      "content": "MEXICO CITY, Aug 25 (Reuters) - Family members of 10 miners who have been trapped in a flooded coal mine in northern Mexico for three weeks said on Thursday they rejected a government plan to find th… [+2019 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Talos Energy to buy EnVen Energy in $1.1 bln deal - Reuters",
+      "description": "Talos Energy Inc <a href=\"https://www.reuters.com/companies/TALO.N\" target=\"_blank\">(TALO.N)</a> said on Thursday it has signed an agreement to buy EnVen Energy Corp, a private producer in the deepwater U.S. Gulf of Mexico, in a $1.1 billion deal including de…",
+      "url": "https://www.reuters.com/markets/deals/talos-energy-buy-enven-energy-11-bln-deal-2022-09-22/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=111",
+      "publishedAt": "2022-09-22T11:41:00Z",
+      "content": "Sept 22 (Reuters) - Talos Energy Inc (TALO.N) said on Thursday it has signed an agreement to buy EnVen Energy Corp, a private producer in the deepwater U.S. Gulf of Mexico, in a $1.1 billion deal inc… [+591 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Parents of missing Mexican students see ex-official's arrest as step toward justice - Reuters Canada",
+      "description": "Drenched by heavy rain, parents of the 43 Mexican students who went missing in 2014 held a somber procession through the streets of Mexico City on Friday, as they've done every month since their sons disappeared; but this time was different.",
+      "url": "https://www.reuters.com/world/americas/parents-missing-mexican-students-see-ex-officials-arrest-step-toward-justice-2022-08-27/",
+      "urlToImage": "https://www.reuters.com/resizer/AzKpFIOPhiGws2QA78qRGM6kgIg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQWQLTQBZBL7TEJ4PYXII5ESRQ.jpg",
+      "publishedAt": "2022-08-27T03:17:00Z",
+      "content": "MEXICO CITY, Aug 26 (Reuters) - Drenched by heavy rain, parents of the 43 Mexican students who went missing in 2014 held a somber procession through the streets of Mexico City on Friday, as they've d… [+2621 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Shell's Vito oilfield to start production in early 2023, partner Equinor says - Reuters",
+      "description": "Shell's <a href=\"https://www.reuters.com/companies/SHEL.L\" target=\"_blank\">(SHEL.L)</a> Vito deepwater oilfield in the U.S. Gulf of Mexico will start production in early 2023, partner Equinor <a href=\"https://www.reuters.com/companies/EQNR.OL\" target=\"_blank\"…",
+      "url": "https://www.reuters.com/business/energy/shells-vito-oilfield-start-production-early-2023-partner-equinor-says-2022-08-31/",
+      "urlToImage": "https://www.reuters.com/resizer/ZdrxBSxMY6Tua73WqPQLEKMjVQw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/N2QKR4TTRZJENJS475Y5XHSIPA.jpg",
+      "publishedAt": "2022-08-31T07:30:00Z",
+      "content": "STAVANGER, Norway, Aug 31 (Reuters) - Shell's (SHEL.L) Vito deepwater oilfield in the U.S. Gulf of Mexico will start production in early 2023, partner Equinor (EQNR.OL) said on Wednesday.\r\n\"It is in … [+381 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Analysis: Lithium experts skeptical on success of Mexico's state-run miner - Reuters",
+      "description": "Mexican officials hope a newly created state-run lithium company will catapult the country to the vanguard of the green energy revolution, but industry experts told Reuters hefty costs and international indifference are likely to stymie those plans.",
+      "url": "https://www.reuters.com/markets/commodities/lithium-experts-skeptical-success-mexicos-state-run-miner-2022-08-26/",
+      "urlToImage": "https://www.reuters.com/resizer/ovyA5UqFfVWTVooTC1w02H75DVk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W7FPBF5TSNPUFPGMFOGLUHT3TE.jpg",
+      "publishedAt": "2022-08-26T19:01:00Z",
+      "content": "MEXICO CITY, Aug 26 (Reuters) - Mexican officials hope a newly created state-run lithium company will catapult the country to the vanguard of the green energy revolution, but industry experts told Re… [+3596 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Mexico's Queen of the Pacific sues Netflix over series",
+      "description": "Sandra Ávila Beltrán says the Queen of the South series is based on her life and demands royalties.",
+      "url": "https://www.bbc.co.uk/news/world-latin-america-62724373",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17336/production/_126503059_gettyimages-176582338.jpg",
+      "publishedAt": "2022-08-30T13:54:40Z",
+      "content": "By Vanessa BuschschlüterBBC News\r\nA Mexican woman who served time in jail for her links to drug trafficking is suing Netflix and TV channel Telemundo.\r\nSandra Ávila Beltrán argues that the TV series … [+2197 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexican president softens tone on trade dispute as Blinken visits - Reuters Canada",
+      "description": "Mexican President Andres Manuel Lopez Obrador on Monday softened his stance on a dispute with the United States over his energy policy, saying Washington had adopted a more conciliatory attitude toward his government's position.",
+      "url": "https://www.reuters.com/world/americas/mexican-president-softens-tone-trade-dispute-blinken-visits-2022-09-12/",
+      "urlToImage": "https://www.reuters.com/resizer/PmfH2C-ixaAwrYqxB5Xudexhz2k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VJNIPSSLKVLTVBSB5QA2MK6NRI.jpg",
+      "publishedAt": "2022-09-12T14:47:00Z",
+      "content": "MEXICO CITY, Sept 12 (Reuters) - Mexican President Andres Manuel Lopez Obrador on Monday softened his stance on a dispute with the United States over his energy policy, saying Washington had adopted … [+1572 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexico's president to strengthen anti-inflation plan - Reuters",
+      "description": "Mexican President Andres Manuel Lopez Obrador said on Monday he will hold a meeting with his cabinet members to strengthen the country's anti-inflation plan, as financial analysts warn of an upward trend.",
+      "url": "https://www.reuters.com/markets/emerging/mexicos-president-strengthen-anti-inflation-plan-2022-09-05/",
+      "urlToImage": "https://www.reuters.com/resizer/8J-tu8NU9iGMHBIXZ46pG78f1_8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GLRGNRRUWVMODNLRUHQ5XTMCJ4.jpg",
+      "publishedAt": "2022-09-05T14:47:00Z",
+      "content": "MEXICO CITY, Sept 5 (Reuters) - Mexican President Andres Manuel Lopez Obrador said on Monday he will hold a meeting with his cabinet members to strengthen the country's anti-inflation plan, as financ… [+1017 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Lindsey Ellefson",
+      "title": "The Different Kinds of E-Bikes (and Where It’s Legal to Ride Them)",
+      "description": "There is a lot of confusion around electric bicycles, or e-bikes, and that stems largely from the different laws governing their use around the country. The U.S. Consumer Product Safety Commission regulates e-bikes at the federal level, but focuses on product…",
+      "url": "https://lifehacker.com/the-different-kinds-of-e-bikes-and-where-it-s-legal-to-1849524524",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1f73e4ef673ff8f0e2d589ed19e79a51.jpg",
+      "publishedAt": "2022-09-12T15:00:00Z",
+      "content": "There is a lot of confusion around electric bicycles, or e-bikes, and that stems largely from the different laws governing their use around the country. The U.S. Consumer Product Safety Commission re… [+3095 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Blinken says Ukraine has made 'significant progress' in counteroffensive - Reuters",
+      "description": "U.S. Secretary of State Antony Blinken said on Monday that it was still early days in Ukraine's counteroffensive against Russian forces, but Ukrainian forces have made \"significant progress.\"",
+      "url": "https://www.reuters.com/world/europe/blinken-says-ukraine-has-made-significant-progress-counteroffensive-2022-09-12/",
+      "urlToImage": "https://www.reuters.com/resizer/ospoe9rif1fDhFM-HFRFPEWTCkU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F4VVBUGPIJNN3PSOL2TYNGGQTA.jpg",
+      "publishedAt": "2022-09-12T23:35:00Z",
+      "content": "MEXICO CITY, Sept 12 (Reuters) - U.S. Secretary of State Antony Blinken said on Monday that it was still early days in Ukraine's counteroffensive against Russian forces, but Ukrainian forces have mad… [+717 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexican housing must become denser, better planned - study - Reuters Canada",
+      "description": "Mexican housing must become denser and better planned to provide adequate living options to lower-income parts of the population, according to a new study, which said the country's current residential construction was largely unregulated.",
+      "url": "https://www.reuters.com/world/americas/mexican-housing-must-become-denser-better-planned-study-2022-09-01/",
+      "urlToImage": "https://www.reuters.com/resizer/f74ZHEI59DldVz9Zp2j0eZdsZIs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F2U7B2MUPBLANAG752CBKK32KM.jpg",
+      "publishedAt": "2022-09-01T11:03:00Z",
+      "content": "MEXICO CITY, Sept 1 (Reuters) - Mexican housing must become denser and better planned to provide adequate living options to lower-income parts of the population, according to a new study, which said … [+2009 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Boosted by Eni, Mexico's newest crude finds its way to U.S. refiners - Reuters",
+      "description": "Exports of Mexico's newest crude are ramping up under Italy's Eni <a href=\"https://www.reuters.com/companies/ENI.MI\" target=\"_blank\">(ENI.MI)</a> as U.S. refiners find it an apt replacement for banned Russian oil and one that complements domestic grades.",
+      "url": "https://www.reuters.com/markets/commodities/boosted-by-eni-mexicos-newest-crude-finds-its-way-us-refiners-2022-08-25/",
+      "urlToImage": "https://www.reuters.com/resizer/ULQrOGQ70p5CfquPzK2KDr5qmss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XS36OBMPGFPRDG3ZPWKUBRKHZY.jpg",
+      "publishedAt": "2022-08-25T10:08:00Z",
+      "content": "MEXICO CITY/HOUSTON, Aug 25 (Reuters) - Exports of Mexico's newest crude are ramping up under Italy's Eni (ENI.MI) as U.S. refiners find it an apt replacement for banned Russian oil and one that comp… [+2497 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "CBS News Videos",
+      "title": "Facts behind the migrants arriving at border",
+      "description": "In some ways, the migration flows across the U.S.-Mexico border during the Biden administration are unprecedented. Here are the facts about arrivals of...",
+      "url": "https://news.yahoo.com/facts-behind-migrants-arriving-border-125030080.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/qPRTANuWAVn9M_406zle8Q--~B/aD0zNjA7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/video.cbsnewsvideos.com/ff0e2e1e261bb49d03ae4fb5619d75aa",
+      "publishedAt": "2022-09-01T12:50:30Z",
+      "content": "When Riku Omori's pay at his regular job was slashed by a third, he found temporary work delivering fried chicken and Thai food on his bike on the streets of Kawasaki, south of Tokyo, as a way to sup… [+407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "GREG BEACHAM",
+      "title": "Tata: 3 Mexico forwards will go to Qatar, but not Chicharito",
+      "description": "Mexico has four center forwards in training for its World Cup warmup matches this week, but El Tri will take only three strikers to Qatar.  Martino ruled out...",
+      "url": "https://news.yahoo.com/tata-3-mexico-forwards-qatar-040735667.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MpJ30VmjqedLBpAdwwrF3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/b193ef3aa97fe1e28adb3a227b21657f",
+      "publishedAt": "2022-09-21T04:07:35Z",
+      "content": "CARSON, Calif. (AP) Mexico has four center forwards in training for its World Cup warmup matches this week, but El Tri will take only three strikers to Qatar.\r\nAnd Chicharito will not be in either gr… [+3899 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Mexican president says he's changed mind about using army to keep peace - Reuters",
+      "description": "Mexican President Andres Manuel Lopez Obrador said on Tuesday that he had changed his mind about deploying the armed forces to oversee public security as he defended his plan to give the Army control of the civilian-led National Guard.",
+      "url": "https://www.reuters.com/world/americas/mexican-president-says-hes-changed-mind-about-using-army-keep-peace-2022-09-06/",
+      "urlToImage": "https://www.reuters.com/resizer/DRFeSrtBM32g5IqXFct7HquIsGw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IWV25EBC25KHZL64VKPHT2VWSY.jpg",
+      "publishedAt": "2022-09-06T16:16:00Z",
+      "content": "MEXICO CITY, Sept 6 (Reuters) - Mexican President Andres Manuel Lopez Obrador said on Tuesday that he had changed his mind about deploying the armed forces to oversee public security as he defended h… [+1680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Angely Mercado",
+      "title": "There Are Storms Off Both U.S. Coasts After an Unusually Quiet Summer",
+      "description": "Storms have formed off both the East and West coasts of the United States, breaking a rare streak of inactivity. Last month was the first August with zero named storms in 25 years. This is also the third time since records began in the 1940s that there were n…",
+      "url": "https://gizmodo.com/there-are-storms-off-both-u-s-coasts-after-an-unusuall-1849517562",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3057e40fb554b2b5e430621e6b309426.jpg",
+      "publishedAt": "2022-09-09T19:22:00Z",
+      "content": "Storms have formed off both the East and West coasts of the United States, breaking a rare streak of inactivity. Last month was the first August with zero named storms in 25 years. This is also the t… [+1545 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Sara Boboltz",
+      "title": "A New Mexico City Has Less Than 1 Month Of Water Left",
+      "description": "Las Vegas, New Mexico has seen rainstorms wash charred debris and ash into its drinking water supplies this year.",
+      "url": "https://www.huffpost.com/entry/las-vegas-new-mexico-drinking-water_n_6313b5d0e4b046aa022ae3f0",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6313b6252300003000a4a64c.jpeg?cache=BRezUIspTy&ops=1200_630",
+      "publishedAt": "2022-09-03T21:24:58Z",
+      "content": "A New Mexico city is less than one month away from running out of fresh water after a massive wildfire sparked by the federal government left residents usual sources loaded with ash and charred debri… [+1896 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ella Nilsen",
+      "title": "City with just 20 days of fresh water left finds backup source — but they aren't out of the woods",
+      "description": "A river and reservoir that supplied most of the city's water were tainted by ashy sludge this summer after a massive wildfire burned hundreds of thousands of acres in the watershed.",
+      "url": "https://www.cnn.com/2022/09/06/us/las-vegas-new-mexico-backup-water-source-climate/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220902142608-01-mayor-louie-trujillo-courtesy.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-09-06T22:53:49Z",
+      "content": "The city of Las Vegas, New Mexico, will be able to use a nearby lake as a backup water supply, effectively extending its water countdown from 20 days to more than four months. \r\nA river and reservoir… [+2485 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Morgan Lee/Associated Press",
+      "title": "New Mexico Judge Disqualifies County Commissioner From Public Office for Jan. 6 Role",
+      "description": "A New Mexico judge disqualified county commissioner Couy Griffin from holding public office for his role at the U.S. Capitol on Jan. 6, 2021.",
+      "url": "https://time.com/6211119/new-mexico-jan-6-couy-griffin-disqualify/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2022/09/judge-disqualifies-cowboys-for-trump-cofounder-couy-griffin.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2022-09-06T17:05:07Z",
+      "content": "SANTA FE, N.M. — A New Mexico state district court judge has disqualified county commissioner and Cowboys for Trump cofounder Couy Griffin from holding public office for engaging in insurrection at t… [+762 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Formula 1: 2023 season to have record 24-race calendar",
+      "description": "A record 24-race calendar is confirmed by Formula 1's governing body for the 2023 season.",
+      "url": "https://www.bbc.co.uk/sport/formula1/62974075",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/07CE/production/_126789910_f1.jpg",
+      "publishedAt": "2022-09-20T15:43:17Z",
+      "content": "The Las Vegas Grand Prix's 3.8-mile track will include a portion of the Nevada resort city's famous Strip\r\nA record 24-race calendar has been confirmed by Formula 1's governing body for the 2023 seas… [+2955 chars]"
     }
-  ],
-  "nextPage": 1
+  ]
 }

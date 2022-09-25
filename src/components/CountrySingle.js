@@ -1,5 +1,5 @@
 import axios from "axios";
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 import "../css/singleCountry.css";
 
@@ -8,7 +8,14 @@ import {
   singleCountry,
   setWeather,
   weatherIcon,
-  setWeatherIcon,
+  loadingValue,
+  showButton,
+  setLoading,
+  setCountryText,
+  countryWikiText,
+  setNewsAPI,
+  countryNews,
+  setShowButton,
 } from "../store/countrySlice";
 
 import { useDispatch, useSelector } from "react-redux";
@@ -19,17 +26,16 @@ const CountrySingle = () => {
 
   const country = useSelector(singleCountry);
   const weathericon = useSelector(weatherIcon);
-  const [countryText, setCountryText] = useState();
-  const [loading, setLoading] = useState(true);
-
-  const [showButton, setShowButton] = useState(false);
+  const loading = useSelector(loadingValue);
+  const countryText = useSelector(countryWikiText);
+  const newsApi = useSelector(countryNews);
+  const showButtonScroll = useSelector(showButton);
 
   /////////////////// getData()
-  // "https://restcountries.com/v3.1/alpha/"
 
   const getData = async () => {
     await axios
-      .get(" https://restcountries.com/v3.1/name/" + name)
+      .get("https://restcountries.com/v3.1/name/" + name)
       .catch((error) => {
         console.log("problem with axios getting singleCountry data", error);
       })
@@ -43,11 +49,10 @@ const CountrySingle = () => {
 
   /////////////////// getWeather()
 
-  const getWeather = async (country) => {
+  const getWeather = async () => {
     await axios
       .get(
-        `https://api.openweathermap.org/data/2.5/weather?q=${country?.capital}&units=metric&appid=` +
-          "fb50cf639c1d62c4d1f519bfd8bacb5c"
+        `https://api.openweathermap.org/data/2.5/weather?q=${country?.capital}&units=metric&appid=${process.env.REACT_APP_API_KEY_WEATHER}`
       )
       .catch((err) => {
         console.log("problem with axios getting weather data", err);
@@ -62,20 +67,17 @@ const CountrySingle = () => {
 
   ////////////////// getNews()
 
-  const [newsApi, setNewsApi] = useState(require("./sampleAPI.json").results);
   const getNews = async () => {
     /////////////////// UNCOMMENT THIS AREA WHEN YOU WANT TO FETCH ARTICLES FROM newsdata.io
-    // await axios
-    //   .get(
-    //     `https://newsdata.io/api/1/news?apikey=${process.env.REACT_APP_API_KEY}=${name}`
-    //   )
-    //   .catch((err) => console.log("Error: ", err))
-    //   .then((res) => {
-    //     setNewsApi(res?.data?.results);
-    //   });
+    await axios;
+    // .get(
+    //   `https://newsapi.org/v2/everything?q=${name}&apiKey=${process.env.REACT_APP_API_KEY_NEWS}`
+    // )
+    // .catch((err) => console.log("Error: ", err))
+    // .then((res) => {
+    //   dispatch(setNewsAPI(res?.data));
+    // });
   };
-
-  // pub_11432a8798aee6ca02df9f5c3aa00a59940f4&q
 
   /////////////////// getNews() end
 
@@ -93,6 +95,7 @@ const CountrySingle = () => {
         try {
           let objectKey = Object.keys(res.data.query.pages)[0];
           let extract = res.data.query.pages[objectKey].extract;
+
           // if the search results is shorter, the search is made with '_country' added, for example country Georgia needs this because Wikipedia has several articles under the title Georgia
           if (extract.length < 500 || name === "Georgia") {
             try {
@@ -103,7 +106,7 @@ const CountrySingle = () => {
                 .catch((err) => console.log("Error:", err))
                 .then((res) => {
                   objectKey = Object.keys(res.data.query.pages)[0];
-                  console.log(res.data.query.pages[objectKey]);
+
                   return (extract = res.data.query.pages[objectKey].extract);
                 });
             } catch (err) {
@@ -113,7 +116,9 @@ const CountrySingle = () => {
             }
           }
           let split = extract.split("\n");
-          setCountryText(split);
+          // filters the empty paragraphs out
+          const filtered = split.filter((p) => p !== "");
+          dispatch(setCountryText(filtered));
         } catch (err) {
           console.log("Error with getting wikipedia text", err);
         }
@@ -122,36 +127,19 @@ const CountrySingle = () => {
 
   /////////////////// getText() end
 
-  /////////////////// getIcon()
-
-  const getIcon = async (country) => {
-    try {
-      await dispatch(
-        setWeatherIcon(
-          `http://openweathermap.org/img/wn/${country?.weather?.weather[0]?.icon}@2x.png`
-        )
-      );
-    } catch (error) {
-      console.log("problem witch axios fetching the icon:", error);
-    }
-  };
-
-  /////////////////// getIcon() end
-
   useEffect(() => {
     getData();
-    getWeather(country);
+    getWeather();
     getNews();
-    getText(country.name.common, country.name.official);
-    getIcon(country);
+    getText();
     if (country) {
-      setLoading(false);
+      dispatch(setLoading(false));
     }
     window.addEventListener("scroll", () => {
       if (window.pageYOffset > 300) {
-        setShowButton(true);
+        dispatch(setShowButton(true));
       } else {
-        setShowButton(false);
+        dispatch(setShowButton(false));
       }
     });
   }, []);
@@ -166,10 +154,10 @@ const CountrySingle = () => {
 
   if (loading) {
     return <p>loading...</p>;
-  } else if (country?.weather && countryText) {
+  } else if (country?.weather && countryText && newsApi) {
     return (
       <React.Fragment>
-        {showButton && (
+        {showButtonScroll && (
           <button onClick={scrollToTop} className="back-to-top">
             &#8679;
           </button>
@@ -182,7 +170,11 @@ const CountrySingle = () => {
           />
           <img
             className="coatOfArms"
-            src={country?.coatOfArms}
+            src={
+              country?.coatOfArms
+                ? country?.coatOfArms
+                : require("../images/transpanet_square.png")
+            }
             alt={country?.name.common}
           />
           <p>{country?.name.official}</p>
@@ -194,29 +186,36 @@ const CountrySingle = () => {
         <div className="mainSingle">
           <div className="left">
             <h2>LATEST NEWS</h2>
-            {newsApi.map((article, index) => {
+            {newsApi.articles.map((article, index) => {
               if (index < 3)
                 return (
                   <a
-                    href={article.link}
+                    href={article?.url}
                     key={index}
                     style={{ marginBottom: "4em" }}
                   >
-                    <p>{article.title}</p>
+                    <p>{article?.title}</p>
                   </a>
                 );
-              else return;
             })}
+
             <div className="weather">
               <img
                 src={
                   weathericon
-                    ? `http://openweathermap.org/img/wn/${country?.weather?.weather[0]?.icon}@2x.png`
+                    ? `http://openweathermap.org/img/wn/${weathericon}@2x.png`
                     : `http://openweathermap.org/img/wn/10d@2x.png`
                 }
                 alt={country?.weather?.weather?.main}
               />
-              <p>Weather today: {country?.weather?.weather[0]?.description}</p>
+
+              <p>
+                Weather today:{" "}
+                <span style={{ color: "white" }}>
+                  {" "}
+                  {country?.weather?.weather[0]?.description}
+                </span>
+              </p>
             </div>
             <Link className="goBackButton" to="/">
               &#x2190;
@@ -226,6 +225,19 @@ const CountrySingle = () => {
           <div className="right">
             <div className="wikiText">
               {countryText.map((p, index) => {
+                if (index + 1 === countryText.length) {
+                  return (
+                    <p key={index}>
+                      {p}{" "}
+                      {
+                        <a href={`https://en.wikipedia.org/wiki/${name}`}>
+                          More in Wikipedia.
+                        </a>
+                      }
+                    </p>
+                  );
+                }
+
                 return <p key={index}>{p}</p>;
               })}
             </div>
@@ -236,7 +248,7 @@ const CountrySingle = () => {
   } else if (countryText) {
     return (
       <React.Fragment>
-        {showButton && (
+        {showButtonScroll && (
           <button onClick={scrollToTop} className="back-to-top">
             &#8679;
           </button>
@@ -249,7 +261,11 @@ const CountrySingle = () => {
           />
           <img
             className="coatOfArms"
-            src={country?.coatOfArms}
+            src={
+              country?.coatOfArms
+                ? country?.coatOfArms
+                : require("../images/transpanet_square.png")
+            }
             alt={country?.name.common}
           />
           <p>{country?.name.official}</p>
@@ -261,16 +277,15 @@ const CountrySingle = () => {
         <div className="mainSingle">
           <div className="left">
             <h2>LATEST NEWS</h2>
-
-            {newsApi.map((article, index) => {
+            {newsApi.articles.map((article, index) => {
               if (index < 3)
                 return (
                   <a
-                    href={article.link}
+                    href={article?.url}
                     key={index}
                     style={{ marginBottom: "4em" }}
                   >
-                    <p>{article.title}</p>
+                    <p>{article?.title}</p>
                   </a>
                 );
             })}
@@ -281,6 +296,22 @@ const CountrySingle = () => {
           <div className="right">
             <div className="wikiText">
               {countryText.map((p, index) => {
+                if (index + 1 === countryText.length) {
+                  return (
+                    <p key={index}>
+                      {p}{" "}
+                      {
+                        <a
+                          key={index + 1}
+                          href={`https://en.wikipedia.org/wiki/${name}`}
+                        >
+                          More in Wikipedia.
+                        </a>
+                      }
+                    </p>
+                  );
+                }
+
                 return <p key={index}>{p}</p>;
               })}
             </div>
@@ -291,7 +322,7 @@ const CountrySingle = () => {
   } else
     return (
       <React.Fragment>
-        {showButton && (
+        {showButtonScroll && (
           <button onClick={scrollToTop} className="back-to-top">
             &#8679;
           </button>
@@ -304,7 +335,11 @@ const CountrySingle = () => {
           />
           <img
             className="coatOfArms"
-            src={country?.coatOfArms}
+            src={
+              country?.coatOfArms
+                ? country?.coatOfArms
+                : require("../images/transpanet_square.png")
+            }
             alt={country?.name.common}
           />
           <p>{country?.name.official}</p>
@@ -317,15 +352,15 @@ const CountrySingle = () => {
           <div className="left">
             <h2>LATEST NEWS</h2>
 
-            {newsApi.map((article, index) => {
+            {newsApi.articles.map((article, index) => {
               if (index < 3)
                 return (
                   <a
-                    href={article.link}
+                    href={article?.url}
                     key={index}
                     style={{ marginBottom: "4em" }}
                   >
-                    <p>{article.title}</p>
+                    <p>{article?.title}</p>
                   </a>
                 );
             })}

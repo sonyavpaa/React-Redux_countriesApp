@@ -23,12 +23,12 @@ img {
   height: auto;
 }
 
-.cardName p {
-  margin-top: -1em;
+.cardName h2 {
+  text-align: center;
 }
 
-.cardBody {
-  display: flex;
+.cardName p {
+  margin-top: -1em;
 }
 
 .cardBody {
