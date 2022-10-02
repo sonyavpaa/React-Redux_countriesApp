@@ -1,13 +1,18 @@
 # Countires App
 
-School project done in BCH during Web Dev Studies in Autumn 2022. An app that lists countries and fetches some data about weather and from Wikipedia.
+![alt text](./src/images/example.png)
+
+School project done in BCH during Web Dev Studies in Autumn 2022. An app that lists countries and fetches some data about weather and latest news + country related text from Wikipedia.
+
+Site is deployed live here:
+https://countries-redux-react.netlify.app/
 
 ## Tech used
 
 - React
 - Redux
 
-## Stating the project
+## Getting started
 
 ```cli
 npm install
@@ -47,13 +52,13 @@ store.subscribe(() => {
 ## API's used
 
 - REST countries: https://restcountries.com/
+- MediaWiki: https://www.mediawiki.org/wiki/API:Main_page
 - OpenWeather: https://openweathermap.org/api NB! Needs an api key that user gets after registration at openweathermap.org; once recieving the key, create an .env file in the project root and store it there:
 
 ```
 REACT_APP_API_KEY_NEWS=YOUR_NEW_API_KEY_FOR_WEATHER
 ```
 
-- MediaWiki: https://www.mediawiki.org/wiki/API:Main_page
 - NEWSDATA.IO: https://newsdata.io/ NB! By default the app uses dummy data from src/components/sampleApi.js; to use newsdata.io, user needs an api key that user gets after registration at newsdata.io. Newsdata.io provides a number of free api calls. After recieving the api key, store it in .env:
 
 ```
