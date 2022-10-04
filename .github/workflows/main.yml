@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Run a one-line script
-        run: npm start
+        run: npm install
 
       # - name: Simulate an error
       #  run: echo "About to fail" ; exit 1
