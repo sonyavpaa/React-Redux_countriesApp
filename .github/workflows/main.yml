@@ -8,12 +8,5 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
-      - name: Testing npm install
-        run: npm install
-
-      # - name: Simulate an error
-      #  run: echo "About to fail" ; exit 1
-
-      - name: Testing npm start
-        run: npm start
+      - run: npm install
+      - run: npm start
