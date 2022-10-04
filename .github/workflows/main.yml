@@ -9,11 +9,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Run a one-line script
+      - name: Testing npm install
         run: npm install
 
       # - name: Simulate an error
       #  run: echo "About to fail" ; exit 1
 
-      - name: Another greeting
-        run: echo "Hello, CI/CD again!"
+      - name: Testing npm start
+        run: npm start
